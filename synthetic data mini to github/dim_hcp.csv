@@ -1,0 +1,41 @@
+HCP_ID,HCP_Name,Specialty,City,Territory,Organization_ID
+H0001,Doctor 0001,Pulmonology,Cairo,Cairo East,O002
+H0002,Doctor 0002,General Practice,Assiut,Upper Egypt,O003
+H0003,Doctor 0003,Gastroenterology,Alexandria,Alexandria,O004
+H0004,Doctor 0004,Internal Medicine,Mansoura,Delta,O005
+H0005,Doctor 0005,Neurology,Giza,Giza,O006
+H0006,Doctor 0006,Pulmonology,Cairo,Cairo East,O007
+H0007,Doctor 0007,Internal Medicine,Cairo,Cairo East,O008
+H0008,Doctor 0008,Pulmonology,Assiut,Upper Egypt,O009
+H0009,Doctor 0009,Internal Medicine,Alexandria,Alexandria,O010
+H0010,Doctor 0010,Cardiology,Assiut,Upper Egypt,O011
+H0011,Doctor 0011,Internal Medicine,Alexandria,Alexandria,O012
+H0012,Doctor 0012,Orthopedics,Alexandria,Alexandria,O013
+H0013,Doctor 0013,Orthopedics,Cairo,Cairo East,O014
+H0014,Doctor 0014,Cardiology,Alexandria,Alexandria,O015
+H0015,Doctor 0015,Endocrinology,Alexandria,Alexandria,O016
+H0016,Doctor 0016,Neurology,Assiut,Upper Egypt,O017
+H0017,Doctor 0017,Cardiology,Cairo,Cairo East,O018
+H0018,Doctor 0018,Pulmonology,Giza,Giza,O019
+H0019,Doctor 0019,Gastroenterology,Giza,Giza,O020
+H0020,Doctor 0020,Gastroenterology,Mansoura,Delta,O021
+H0021,Doctor 0021,Orthopedics,Alexandria,Alexandria,O022
+H0022,Doctor 0022,Gastroenterology,Mansoura,Delta,O023
+H0023,Doctor 0023,Orthopedics,Mansoura,Delta,O024
+H0024,Doctor 0024,Neurology,Giza,Giza,O025
+H0025,Doctor 0025,General Practice,Giza,Giza,O026
+H0026,Doctor 0026,Internal Medicine,Mansoura,Delta,O027
+H0027,Doctor 0027,Endocrinology,Assiut,Upper Egypt,O028
+H0028,Doctor 0028,Orthopedics,Cairo,Cairo East,O029
+H0029,Doctor 0029,General Practice,Mansoura,Delta,O030
+H0030,Doctor 0030,Endocrinology,Alexandria,Alexandria,O001
+H0031,Doctor 0031,Gastroenterology,Assiut,Upper Egypt,O002
+H0032,Doctor 0032,Pulmonology,Alexandria,Alexandria,O003
+H0033,Doctor 0033,Neurology,Mansoura,Delta,O004
+H0034,Doctor 0034,Internal Medicine,Alexandria,Alexandria,O005
+H0035,Doctor 0035,Pulmonology,Mansoura,Delta,O006
+H0036,Doctor 0036,Endocrinology,Giza,Giza,O007
+H0037,Doctor 0037,General Practice,Assiut,Upper Egypt,O008
+H0038,Doctor 0038,Pulmonology,Assiut,Upper Egypt,O009
+H0039,Doctor 0039,General Practice,Assiut,Upper Egypt,O010
+H0040,Doctor 0040,General Practice,Giza,Giza,O011

@@ -1,0 +1,50 @@
+[
+  {
+    "file": "11A_column_mapping_template.csv",
+    "size_bytes": 655
+  },
+  {
+    "file": "DATA_DICTIONARY.csv",
+    "size_bytes": 1603
+  },
+  {
+    "file": "README.txt",
+    "size_bytes": 1095
+  },
+  {
+    "file": "dim_hco.csv",
+    "size_bytes": 1923
+  },
+  {
+    "file": "dim_hcp.csv",
+    "size_bytes": 597
+  },
+  {
+    "file": "dim_product.csv",
+    "size_bytes": 856
+  },
+  {
+    "file": "fact_disease_market.csv",
+    "size_bytes": 186085
+  },
+  {
+    "file": "fact_distribution_sales.csv",
+    "size_bytes": 273686
+  },
+  {
+    "file": "fact_market_sales.csv",
+    "size_bytes": 386354
+  },
+  {
+    "file": "fact_patient_journey.csv",
+    "size_bytes": 2259584
+  },
+  {
+    "file": "fact_prescriptions.csv",
+    "size_bytes": 299097
+  },
+  {
+    "file": "fact_promotion.csv",
+    "size_bytes": 8519688
+  }
+]

@@ -1,0 +1,16 @@
+Table,Column,Type,Description
+fact_patient_events,Event_Type,category,Treatment initiation / New / Switch / Add / Repeat
+fact_patient_events,Previous_Brand,string,Brand immediately preceding the event
+fact_patient_treatment,Treatment_Event,category,New / Switch / Add / Repeat
+fact_patient_treatment,Treatment_Start_Date,date,Episode start
+fact_patient_treatment,Treatment_End_Date,date,Episode end
+fact_patient_treatment,Previous_Brand,string,Prior treatment brand
+fact_patient_treatment,Line_of_Therapy,integer,Therapy line; Switch increments line
+fact_patient_treatment,Persistence_Days,integer,Episode duration
+fact_patient_diagnosis,Diagnosis_Code,string,ICD-like synthetic code
+fact_patient_tests,Test_Type,category,Disease-relevant test
+fact_patient_tests,Test_Result,float,Synthetic result
+fact_patient_comorbidities,Comorbidity,category,Concurrent condition
+mart_source_of_business,Source_of_Business,category,Patient-level source classification
+mart_switching_flows,Unique_Patients,integer,Unique patients moving between brands
+mart_persistence,Threshold_Days,integer,Persistence threshold

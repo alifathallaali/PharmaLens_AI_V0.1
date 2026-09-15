@@ -1,0 +1,31 @@
+Organization_ID,Organization_Name,Organization_Type,City,Territory,Beds
+O001,Health Organization 001,Pharmacy Group,Giza,Giza,322
+O002,Health Organization 002,Clinic,Giza,Giza,766
+O003,Health Organization 003,Clinic,Giza,Giza,584
+O004,Health Organization 004,Clinic,Assiut,Upper Egypt,433
+O005,Health Organization 005,Clinic,Alexandria,Alexandria,587
+O006,Health Organization 006,Hospital,Cairo,Cairo East,309
+O007,Health Organization 007,Hospital,Alexandria,Alexandria,378
+O008,Health Organization 008,Hospital,Assiut,Upper Egypt,105
+O009,Health Organization 009,Pharmacy Group,Mansoura,Delta,449
+O010,Health Organization 010,Pharmacy Group,Cairo,Cairo East,553
+O011,Health Organization 011,Clinic,Alexandria,Alexandria,206
+O012,Health Organization 012,Clinic,Mansoura,Delta,435
+O013,Health Organization 013,Pharmacy Group,Giza,Giza,405
+O014,Health Organization 014,Hospital,Giza,Giza,613
+O015,Health Organization 015,Pharmacy Group,Alexandria,Alexandria,466
+O016,Health Organization 016,Clinic,Alexandria,Alexandria,741
+O017,Health Organization 017,Hospital,Assiut,Upper Egypt,435
+O018,Health Organization 018,Pharmacy Group,Assiut,Upper Egypt,778
+O019,Health Organization 019,Hospital,Giza,Giza,190
+O020,Health Organization 020,Clinic,Mansoura,Delta,67
+O021,Health Organization 021,Pharmacy Group,Giza,Giza,417
+O022,Health Organization 022,Clinic,Alexandria,Alexandria,24
+O023,Health Organization 023,Clinic,Alexandria,Alexandria,563
+O024,Health Organization 024,Pharmacy Group,Assiut,Upper Egypt,631
+O025,Health Organization 025,Pharmacy Group,Cairo,Cairo East,260
+O026,Health Organization 026,Clinic,Mansoura,Delta,309
+O027,Health Organization 027,Pharmacy Group,Cairo,Cairo East,540
+O028,Health Organization 028,Clinic,Giza,Giza,648
+O029,Health Organization 029,Pharmacy Group,Giza,Giza,138
+O030,Health Organization 030,Clinic,Mansoura,Delta,305

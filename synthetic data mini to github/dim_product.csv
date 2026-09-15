@@ -1,0 +1,11 @@
+Product_ID,Brand,Molecule,Manufacturer,ATC_Code,Therapeutic_Area,Strength,Dosage_Form
+P001,CardioSafe,Molecule A,Alpha Pharma,C09AA05,Diabetes,20 mg,Tablet
+P002,GlucoMax,Molecule B,Beta Pharma,A10BA02,Diabetes,500 mg,Tablet
+P003,Respira,Molecule C,Gamma Pharma,R03AC02,Asthma,100 mcg,Inhaler
+P004,PainFree,Molecule D,Delta Pharma,N02BE01,Arthritis,500 mg,Tablet
+P005,Infecto,Molecule E,Epsilon Pharma,J01CA04,Other,500 mg,Capsule
+P006,NeuroCalm,Molecule F,Zeta Pharma,N06AB10,Asthma,20 mg,Tablet
+P007,ArthroRelief,Molecule G,Eta Pharma,M01AE01,Arthritis,400 mg,Tablet
+P008,Dermacare,Molecule H,Theta Pharma,D07AC01,Other,0.05%,Cream
+P009,LipiControl,Molecule I,Iota Pharma,C10AA01,Diabetes,20 mg,Tablet
+P010,GastroEase,Molecule J,Kappa Pharma,A02BC02,Hypertension,40 mg,Capsule

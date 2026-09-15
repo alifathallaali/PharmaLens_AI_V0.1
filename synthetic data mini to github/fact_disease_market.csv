@@ -1,0 +1,2161 @@
+Date,Country,Region,Therapeutic_Area,Product_ID,Brand,Manufacturer,Sales_Value,Sales_Units,Market_Share_%
+2023-01-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,999721.5,4563,100.0
+2023-01-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,371182.65,6498,100.0
+2023-01-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,296247.65,1909,100.0
+2023-01-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,236098.42,6212,100.0
+2023-01-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,620653.75,3820,100.0
+2023-01-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,117528.5,1749,100.0
+2023-01-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,313030.85,7483,100.0
+2023-01-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,902894.62,4547,100.0
+2023-01-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,372533.81,5723,100.0
+2023-01-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,277812.37,1441,100.0
+2023-01-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,658198.4,6274,100.0
+2023-01-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,341129.19,3162,100.0
+2023-01-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,861614.94,6414,100.0
+2023-01-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,287242.76,3144,100.0
+2023-01-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,597906.3,5054,100.0
+2023-01-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,675144.26,4586,100.0
+2023-01-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,472320.41,7607,100.0
+2023-01-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,396785.86,6940,100.0
+2023-01-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,558406.46,3604,100.0
+2023-01-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,85256.93,1770,100.0
+2023-01-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,1033758.04,8772,100.0
+2023-01-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,177698.29,2194,100.0
+2023-01-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,171932.44,1733,100.0
+2023-01-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1522243.41,7520,100.0
+2023-01-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,400729.9,2555,100.0
+2023-01-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,144785.4,1213,100.0
+2023-01-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,822232.54,4934,100.0
+2023-01-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,758872.14,5202,100.0
+2023-01-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,949726.51,5284,100.0
+2023-01-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,989353.97,6363,100.0
+2023-01-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,1394456.26,7864,100.0
+2023-01-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,644453.9,5003,100.0
+2023-01-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,1369468.1,8536,100.0
+2023-01-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,919848.08,8273,100.0
+2023-01-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,747959.62,4357,100.0
+2023-01-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,720671.42,3505,100.0
+2023-01-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1062549.48,5408,100.0
+2023-01-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,253705.11,1329,100.0
+2023-01-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,1421336.35,6606,100.0
+2023-01-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,505054.01,4637,100.0
+2023-01-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,315034.11,6266,100.0
+2023-01-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,146053.95,1728,100.0
+2023-01-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,483018.97,2274,100.0
+2023-01-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,142693.82,987,100.0
+2023-01-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,585051.9,5479,100.0
+2023-01-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,61041.32,973,100.0
+2023-01-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,915971.95,5964,100.0
+2023-01-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,455226.72,2388,100.0
+2023-01-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,255450.86,6207,100.0
+2023-01-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,1094381.82,6719,100.0
+2023-01-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,514851.78,7149,100.0
+2023-01-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,122703.47,3147,100.0
+2023-01-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,589598.24,5132,100.0
+2023-01-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,774578.63,5989,100.0
+2023-01-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,342036.82,2881,100.0
+2023-01-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,932575.19,5336,100.0
+2023-01-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,181489.11,1884,100.0
+2023-01-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,667275.82,4310,100.0
+2023-01-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,345478.75,2092,100.0
+2023-01-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1105323.02,5319,100.0
+2023-02-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1626037.62,7584,100.0
+2023-02-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,984857.52,8875,100.0
+2023-02-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,970159.34,7734,100.0
+2023-02-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,617196.68,4534,100.0
+2023-02-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,1160923.38,7083,100.0
+2023-02-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,702900.85,4632,100.0
+2023-02-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,463096.57,6622,100.0
+2023-02-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,904564.78,4801,100.0
+2023-02-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,587448.87,6636,100.0
+2023-02-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,1157609.68,7837,100.0
+2023-02-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,1677973.43,8611,100.0
+2023-02-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,273654.5,4200,100.0
+2023-02-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,71641.69,923,100.0
+2023-02-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,1200575.1,7570,100.0
+2023-02-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,710119.18,8231,100.0
+2023-02-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,912574.16,4682,100.0
+2023-02-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,493016.83,3974,100.0
+2023-02-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,264203.56,5476,100.0
+2023-02-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,150460.51,1241,100.0
+2023-02-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,112418.94,1857,100.0
+2023-02-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,475012.38,5384,100.0
+2023-02-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,1293514.71,8470,100.0
+2023-02-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,333669.13,7062,100.0
+2023-02-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1258852.74,7905,100.0
+2023-02-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,1377332.57,7027,100.0
+2023-02-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,669992.68,3622,100.0
+2023-02-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,310344.87,4158,100.0
+2023-02-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,403291.61,4737,100.0
+2023-02-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1042379.87,8625,100.0
+2023-02-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,363983.17,1997,100.0
+2023-02-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,114772.28,2631,100.0
+2023-02-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,694275.05,6293,100.0
+2023-02-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,141514.11,2512,100.0
+2023-02-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,160866.67,2024,100.0
+2023-02-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,546278.66,4825,100.0
+2023-02-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,132599.74,2981,100.0
+2023-02-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,652665.38,8450,100.0
+2023-02-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,347046.19,3298,100.0
+2023-02-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,1560790.27,7707,100.0
+2023-02-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,819080.05,6824,100.0
+2023-02-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,1308558.31,8598,100.0
+2023-02-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,1397007.09,8022,100.0
+2023-02-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,204923.48,1298,100.0
+2023-02-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,272781.43,6873,100.0
+2023-02-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,846749.82,6855,100.0
+2023-02-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,1530066.33,7692,100.0
+2023-02-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,261599.14,8344,100.0
+2023-02-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,589717.12,7186,100.0
+2023-02-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,332593.91,8589,100.0
+2023-02-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,1420326.55,8443,100.0
+2023-02-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,364375.98,8503,100.0
+2023-02-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,297772.64,7042,100.0
+2023-02-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,147047.68,3150,100.0
+2023-02-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,193781.59,1647,100.0
+2023-02-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,652881.43,3459,100.0
+2023-02-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,125124.54,820,100.0
+2023-02-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,211398.68,1132,100.0
+2023-02-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,261068.05,1571,100.0
+2023-02-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,989046.32,4636,100.0
+2023-02-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,192696.89,5245,100.0
+2023-03-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,777208.93,4206,100.0
+2023-03-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,1728965.86,8409,100.0
+2023-03-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,765330.85,8815,100.0
+2023-03-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,696815.7,6834,100.0
+2023-03-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,829880.03,5201,100.0
+2023-03-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,626486.0,5176,100.0
+2023-03-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,854267.04,5450,100.0
+2023-03-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,181445.38,1098,100.0
+2023-03-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,1055054.6,6690,100.0
+2023-03-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,969876.59,5380,100.0
+2023-03-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,168743.21,2797,100.0
+2023-03-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,1053317.69,7151,100.0
+2023-03-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,166328.67,5062,100.0
+2023-03-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,517307.77,3145,100.0
+2023-03-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,440698.36,6378,100.0
+2023-03-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,743737.58,5170,100.0
+2023-03-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,535822.71,8076,100.0
+2023-03-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,625121.3,7136,100.0
+2023-03-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,1172069.3,8850,100.0
+2023-03-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,443408.98,3750,100.0
+2023-03-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,606442.54,2883,100.0
+2023-03-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,996645.36,7491,100.0
+2023-03-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1240676.12,8356,100.0
+2023-03-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,333461.44,8397,100.0
+2023-03-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,526542.37,3871,100.0
+2023-03-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,99141.13,2523,100.0
+2023-03-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,620443.65,4316,100.0
+2023-03-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,633292.66,3675,100.0
+2023-03-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1272934.81,6768,100.0
+2023-03-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,597756.55,3364,100.0
+2023-03-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,269998.56,1850,100.0
+2023-03-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,495493.55,6990,100.0
+2023-03-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,843445.38,8986,100.0
+2023-03-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,772571.7,8325,100.0
+2023-03-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,390859.04,2089,100.0
+2023-03-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,321051.81,7656,100.0
+2023-03-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1581227.23,8201,100.0
+2023-03-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,962123.2,8804,100.0
+2023-03-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,281375.88,3201,100.0
+2023-03-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,430328.58,4199,100.0
+2023-03-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,1454392.02,7207,100.0
+2023-03-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,204142.36,5824,100.0
+2023-03-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,978150.71,5364,100.0
+2023-03-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,414672.77,7790,100.0
+2023-03-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,1778032.2,8628,100.0
+2023-03-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,593779.26,6080,100.0
+2023-03-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,357373.19,6301,100.0
+2023-03-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1077386.52,6830,100.0
+2023-03-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,556028.83,3654,100.0
+2023-03-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,583615.62,7624,100.0
+2023-03-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,263329.32,4491,100.0
+2023-03-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,247862.07,1349,100.0
+2023-03-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,749158.45,8840,100.0
+2023-03-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,1638244.76,7782,100.0
+2023-03-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,825981.6,7871,100.0
+2023-03-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,206714.22,6591,100.0
+2023-03-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,607480.17,7629,100.0
+2023-03-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,101126.92,1846,100.0
+2023-03-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,310775.03,2873,100.0
+2023-03-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,962306.1,5045,100.0
+2023-04-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,496813.17,2321,100.0
+2023-04-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,966016.97,8105,100.0
+2023-04-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,198880.07,1032,100.0
+2023-04-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,528856.73,2586,100.0
+2023-04-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,350029.74,1711,100.0
+2023-04-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,1722361.88,8470,100.0
+2023-04-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,536443.06,7367,100.0
+2023-04-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1263818.74,8381,100.0
+2023-04-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,142101.8,1206,100.0
+2023-04-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,470019.22,4262,100.0
+2023-04-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,518612.52,6723,100.0
+2023-04-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,438375.88,7569,100.0
+2023-04-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,139631.57,834,100.0
+2023-04-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,965561.89,4695,100.0
+2023-04-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,91284.09,1426,100.0
+2023-04-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,600363.32,3520,100.0
+2023-04-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,919741.06,5670,100.0
+2023-04-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,905649.47,8276,100.0
+2023-04-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,1003618.99,5100,100.0
+2023-04-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,1031307.6,6702,100.0
+2023-04-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,51059.63,1084,100.0
+2023-04-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,923159.62,4308,100.0
+2023-04-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1533615.46,8789,100.0
+2023-04-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,76943.18,1496,100.0
+2023-04-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,699950.98,6258,100.0
+2023-04-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,404668.15,2546,100.0
+2023-04-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,850002.68,3901,100.0
+2023-04-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,794195.6,8744,100.0
+2023-04-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,694525.58,8195,100.0
+2023-04-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,32490.29,965,100.0
+2023-04-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,854810.13,7076,100.0
+2023-04-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,1302113.79,7005,100.0
+2023-04-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,121672.13,1816,100.0
+2023-04-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,196717.39,6513,100.0
+2023-04-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,175250.16,4538,100.0
+2023-04-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,217805.62,1535,100.0
+2023-04-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,214792.19,1809,100.0
+2023-04-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,401728.52,8651,100.0
+2023-04-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,242574.91,3331,100.0
+2023-04-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,441345.89,2295,100.0
+2023-04-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,174802.97,2030,100.0
+2023-04-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,265396.84,1357,100.0
+2023-04-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,371060.31,4922,100.0
+2023-04-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,559737.58,4247,100.0
+2023-04-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,336300.41,1768,100.0
+2023-04-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,1460689.67,7570,100.0
+2023-04-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1789462.96,8284,100.0
+2023-04-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,252076.21,2319,100.0
+2023-04-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,1654672.85,8415,100.0
+2023-04-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,1401791.16,6558,100.0
+2023-04-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,183382.46,1404,100.0
+2023-04-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,523424.12,2425,100.0
+2023-04-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,1379824.95,6713,100.0
+2023-04-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,488554.54,5018,100.0
+2023-04-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,361751.52,8320,100.0
+2023-04-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,281912.96,1513,100.0
+2023-04-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,577624.29,6407,100.0
+2023-04-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,392207.63,3093,100.0
+2023-04-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,873922.82,8861,100.0
+2023-04-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1108275.06,5164,100.0
+2023-05-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,170047.89,1195,100.0
+2023-05-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,434880.85,3567,100.0
+2023-05-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,122922.92,1263,100.0
+2023-05-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,238114.32,1447,100.0
+2023-05-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,408455.85,8021,100.0
+2023-05-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,634422.66,3220,100.0
+2023-05-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,471688.17,2243,100.0
+2023-05-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,295665.85,2586,100.0
+2023-05-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,194858.57,975,100.0
+2023-05-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,459088.56,7208,100.0
+2023-05-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,146971.77,1229,100.0
+2023-05-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,890224.61,5377,100.0
+2023-05-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,452871.84,5190,100.0
+2023-05-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,1173399.59,8902,100.0
+2023-05-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,914942.07,5350,100.0
+2023-05-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,538230.3,8379,100.0
+2023-05-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1374493.52,6743,100.0
+2023-05-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,743368.58,4755,100.0
+2023-05-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,840514.17,6636,100.0
+2023-05-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,163369.58,3133,100.0
+2023-05-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,334037.38,3121,100.0
+2023-05-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,1427719.1,6540,100.0
+2023-05-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,156560.89,1221,100.0
+2023-05-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,378644.17,3658,100.0
+2023-05-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,1326503.56,7648,100.0
+2023-05-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,1158808.14,8991,100.0
+2023-05-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1266015.06,8683,100.0
+2023-05-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1114267.78,8883,100.0
+2023-05-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,345732.81,3906,100.0
+2023-05-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,314966.87,3291,100.0
+2023-05-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,223575.06,2607,100.0
+2023-05-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,284760.73,7262,100.0
+2023-05-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,339475.6,4539,100.0
+2023-05-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,853003.98,6158,100.0
+2023-05-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,408164.45,2575,100.0
+2023-05-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,221162.74,1035,100.0
+2023-05-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,518709.74,4041,100.0
+2023-05-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1047703.46,5134,100.0
+2023-05-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,837979.19,6217,100.0
+2023-05-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,1543398.12,7366,100.0
+2023-05-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,1331897.76,6214,100.0
+2023-05-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,213136.74,2350,100.0
+2023-05-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,665308.31,6724,100.0
+2023-05-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,1296537.08,6533,100.0
+2023-05-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,42226.01,988,100.0
+2023-05-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,412168.71,2602,100.0
+2023-05-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,278641.91,6885,100.0
+2023-05-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,129035.43,1237,100.0
+2023-05-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,516672.4,6133,100.0
+2023-05-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,528981.12,4836,100.0
+2023-05-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,755037.02,5905,100.0
+2023-05-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,203798.85,4019,100.0
+2023-05-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,182277.07,4244,100.0
+2023-05-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,246150.36,1855,100.0
+2023-05-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,694286.66,6052,100.0
+2023-05-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,868450.19,4565,100.0
+2023-05-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,934393.83,4666,100.0
+2023-05-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,791327.06,5266,100.0
+2023-05-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,520908.59,5950,100.0
+2023-05-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,367561.83,8421,100.0
+2023-06-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,514188.06,4302,100.0
+2023-06-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,900298.72,7329,100.0
+2023-06-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,121646.04,1998,100.0
+2023-06-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,571050.4,3232,100.0
+2023-06-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,1501820.27,8555,100.0
+2023-06-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,947804.59,4310,100.0
+2023-06-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,527568.68,6901,100.0
+2023-06-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,312969.73,1668,100.0
+2023-06-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,507628.38,6992,100.0
+2023-06-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,224826.83,1963,100.0
+2023-06-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,1453155.8,7086,100.0
+2023-06-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,461187.92,7165,100.0
+2023-06-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,1179470.65,5363,100.0
+2023-06-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,623011.96,5313,100.0
+2023-06-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,184492.62,5756,100.0
+2023-06-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,275679.78,6452,100.0
+2023-06-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,135623.5,2334,100.0
+2023-06-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,47472.36,1325,100.0
+2023-06-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,214765.15,5590,100.0
+2023-06-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,280779.52,2813,100.0
+2023-06-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,391034.42,4186,100.0
+2023-06-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,170843.91,1849,100.0
+2023-06-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1044716.82,6847,100.0
+2023-06-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,719046.74,4874,100.0
+2023-06-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,689375.88,4580,100.0
+2023-06-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,1066509.78,6828,100.0
+2023-06-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,160739.81,4108,100.0
+2023-06-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,600317.47,8972,100.0
+2023-06-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1793074.44,8431,100.0
+2023-06-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,479170.6,6987,100.0
+2023-06-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,1005769.72,8598,100.0
+2023-06-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,316764.53,8920,100.0
+2023-06-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,200955.35,1712,100.0
+2023-06-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,144628.41,1173,100.0
+2023-06-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,73671.68,1004,100.0
+2023-06-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,332267.53,5198,100.0
+2023-06-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,59512.93,1438,100.0
+2023-06-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1424930.79,8348,100.0
+2023-06-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,234674.0,3034,100.0
+2023-06-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,131701.08,2614,100.0
+2023-06-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,402868.95,2795,100.0
+2023-06-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,148252.84,4276,100.0
+2023-06-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,1321104.81,6722,100.0
+2023-06-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,802171.26,6633,100.0
+2023-06-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,580112.92,3421,100.0
+2023-06-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,325623.38,3112,100.0
+2023-06-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,650954.24,3716,100.0
+2023-06-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,82418.16,1523,100.0
+2023-06-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,85516.28,1130,100.0
+2023-06-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,416193.73,7240,100.0
+2023-06-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,766330.16,3803,100.0
+2023-06-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,275169.4,2138,100.0
+2023-06-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,98496.0,1839,100.0
+2023-06-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,1029865.09,8696,100.0
+2023-06-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,367419.54,3062,100.0
+2023-06-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,1111509.62,5718,100.0
+2023-06-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,922915.01,6723,100.0
+2023-06-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,385527.18,6017,100.0
+2023-06-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,1619251.7,7975,100.0
+2023-06-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,896477.34,6095,100.0
+2023-07-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,72761.78,1245,100.0
+2023-07-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,351486.03,3871,100.0
+2023-07-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,688064.34,5224,100.0
+2023-07-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,343612.72,5691,100.0
+2023-07-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,242031.05,5801,100.0
+2023-07-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,725461.79,5401,100.0
+2023-07-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,203616.23,4401,100.0
+2023-07-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,97512.87,2416,100.0
+2023-07-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,313799.37,8972,100.0
+2023-07-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,266655.89,2000,100.0
+2023-07-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,1460029.81,8577,100.0
+2023-07-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,398135.31,3135,100.0
+2023-07-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,147983.6,815,100.0
+2023-07-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,797882.16,5372,100.0
+2023-07-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,162739.1,2897,100.0
+2023-07-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,605367.17,7874,100.0
+2023-07-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,195798.15,2533,100.0
+2023-07-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,469258.31,4597,100.0
+2023-07-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,387682.99,6377,100.0
+2023-07-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,1212270.92,7741,100.0
+2023-07-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,182739.29,1549,100.0
+2023-07-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,1137834.1,7795,100.0
+2023-07-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,797849.12,6069,100.0
+2023-07-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,307784.44,1415,100.0
+2023-07-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,98041.48,2159,100.0
+2023-07-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,1234165.96,6580,100.0
+2023-07-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,53932.93,1109,100.0
+2023-07-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,313420.28,4652,100.0
+2023-07-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1203175.51,5742,100.0
+2023-07-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,508910.4,2434,100.0
+2023-07-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,1815078.61,8798,100.0
+2023-07-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,280549.04,3672,100.0
+2023-07-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,1878281.46,8843,100.0
+2023-07-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,1268165.19,6807,100.0
+2023-07-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,1656097.39,8965,100.0
+2023-07-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,555558.31,5067,100.0
+2023-07-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,418662.89,5860,100.0
+2023-07-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,243242.44,2170,100.0
+2023-07-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,108553.03,2439,100.0
+2023-07-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,1245967.68,8591,100.0
+2023-07-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,264970.0,1475,100.0
+2023-07-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,141954.23,2273,100.0
+2023-07-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,208798.32,6864,100.0
+2023-07-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,348441.92,2249,100.0
+2023-07-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,454471.29,5147,100.0
+2023-07-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,695794.35,5161,100.0
+2023-07-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,356476.13,4106,100.0
+2023-07-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,533683.07,6886,100.0
+2023-07-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,1246296.94,8540,100.0
+2023-07-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,287890.37,1718,100.0
+2023-07-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,728817.35,6042,100.0
+2023-07-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,1011303.31,5039,100.0
+2023-07-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,130037.03,3936,100.0
+2023-07-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,1308837.29,8592,100.0
+2023-07-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,436620.48,3872,100.0
+2023-07-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,609143.81,6008,100.0
+2023-07-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1126442.54,5495,100.0
+2023-07-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,694962.54,6975,100.0
+2023-07-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,61481.74,1743,100.0
+2023-07-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,73319.02,1035,100.0
+2023-08-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,445070.61,7938,100.0
+2023-08-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,300011.85,7951,100.0
+2023-08-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,215382.57,3620,100.0
+2023-08-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,990519.32,6223,100.0
+2023-08-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,325629.91,7634,100.0
+2023-08-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,276301.98,4225,100.0
+2023-08-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,510928.42,2909,100.0
+2023-08-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,823361.64,5275,100.0
+2023-08-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,513872.47,5677,100.0
+2023-08-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,577132.08,2859,100.0
+2023-08-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,405992.55,3200,100.0
+2023-08-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,125834.34,1736,100.0
+2023-08-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,845947.73,6263,100.0
+2023-08-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,771419.99,5055,100.0
+2023-08-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,655858.24,4060,100.0
+2023-08-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,675736.86,8345,100.0
+2023-08-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,157560.62,2279,100.0
+2023-08-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,164699.2,1485,100.0
+2023-08-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,1151614.39,5927,100.0
+2023-08-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,473254.38,4111,100.0
+2023-08-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,743636.68,6978,100.0
+2023-08-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,791864.89,6899,100.0
+2023-08-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1732674.05,8291,100.0
+2023-08-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1420807.52,7300,100.0
+2023-08-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,463970.65,2382,100.0
+2023-08-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,336146.89,6827,100.0
+2023-08-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,292273.34,3825,100.0
+2023-08-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,865422.65,8661,100.0
+2023-08-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,690959.56,3266,100.0
+2023-08-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,632766.51,4294,100.0
+2023-08-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,247644.78,7229,100.0
+2023-08-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,765238.44,5413,100.0
+2023-08-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,58736.03,1128,100.0
+2023-08-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,846882.2,5170,100.0
+2023-08-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,82902.74,972,100.0
+2023-08-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,170987.59,5166,100.0
+2023-08-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,144293.15,1222,100.0
+2023-08-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,826288.9,7923,100.0
+2023-08-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,248216.85,1273,100.0
+2023-08-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,237975.84,4013,100.0
+2023-08-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,1332910.63,8578,100.0
+2023-08-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,686956.48,5039,100.0
+2023-08-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,1118129.87,6331,100.0
+2023-08-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,230364.1,3072,100.0
+2023-08-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,777093.6,4442,100.0
+2023-08-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,344286.7,5412,100.0
+2023-08-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,900998.36,8740,100.0
+2023-08-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,333312.39,4168,100.0
+2023-08-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,328908.99,5893,100.0
+2023-08-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,614366.01,6711,100.0
+2023-08-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,247401.57,6745,100.0
+2023-08-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,343962.08,3395,100.0
+2023-08-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,256144.54,7567,100.0
+2023-08-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,703703.99,3414,100.0
+2023-08-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,551405.76,5834,100.0
+2023-08-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,744578.72,7115,100.0
+2023-08-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,833412.94,5442,100.0
+2023-08-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1525227.7,7152,100.0
+2023-08-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,1167422.14,7428,100.0
+2023-08-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,245415.72,3782,100.0
+2023-09-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,101671.4,1429,100.0
+2023-09-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,926197.39,7004,100.0
+2023-09-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,622227.74,5719,100.0
+2023-09-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,776911.56,7398,100.0
+2023-09-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,439624.55,7168,100.0
+2023-09-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,504517.36,3997,100.0
+2023-09-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,241959.04,5064,100.0
+2023-09-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,170865.79,1508,100.0
+2023-09-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,838716.76,4570,100.0
+2023-09-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,442641.37,8945,100.0
+2023-09-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,198095.84,3338,100.0
+2023-09-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,228497.32,4647,100.0
+2023-09-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,500974.75,5714,100.0
+2023-09-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,1015581.43,6870,100.0
+2023-09-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,1447703.03,7627,100.0
+2023-09-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,1722382.5,8574,100.0
+2023-09-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1734636.56,8905,100.0
+2023-09-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1248942.04,8976,100.0
+2023-09-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,308470.96,7025,100.0
+2023-09-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,211635.73,1789,100.0
+2023-09-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,742858.79,4902,100.0
+2023-09-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,809393.54,4045,100.0
+2023-09-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,830903.88,8311,100.0
+2023-09-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,237865.86,1745,100.0
+2023-09-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,211436.96,4532,100.0
+2023-09-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,564478.82,8946,100.0
+2023-09-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,844531.61,3956,100.0
+2023-09-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,131602.03,1901,100.0
+2023-09-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1392613.36,7493,100.0
+2023-09-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,801126.69,5263,100.0
+2023-09-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,1306815.01,7164,100.0
+2023-09-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,920515.61,4419,100.0
+2023-09-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,167033.19,5533,100.0
+2023-09-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,46419.98,1157,100.0
+2023-09-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,259648.09,1711,100.0
+2023-09-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,191771.85,6163,100.0
+2023-09-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1285925.64,8158,100.0
+2023-09-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,263087.74,1861,100.0
+2023-09-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,739954.23,4020,100.0
+2023-09-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,552058.66,8541,100.0
+2023-09-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,332409.11,3542,100.0
+2023-09-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,1852349.75,8935,100.0
+2023-09-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,264636.22,1808,100.0
+2023-09-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,561368.33,2796,100.0
+2023-09-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,1280505.47,6138,100.0
+2023-09-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,69285.82,1497,100.0
+2023-09-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,75790.53,1829,100.0
+2023-09-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,111074.68,2762,100.0
+2023-09-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,1109072.22,8807,100.0
+2023-09-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,535260.17,8179,100.0
+2023-09-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,132113.59,4099,100.0
+2023-09-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,150524.09,1789,100.0
+2023-09-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,656608.59,8266,100.0
+2023-09-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,922447.89,4796,100.0
+2023-09-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,1085052.98,7895,100.0
+2023-09-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,294492.19,3599,100.0
+2023-09-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,208947.66,1268,100.0
+2023-09-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,297380.04,1504,100.0
+2023-09-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,430186.48,3501,100.0
+2023-09-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1108958.06,5398,100.0
+2023-10-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1148272.58,5719,100.0
+2023-10-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,643998.39,3076,100.0
+2023-10-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,214173.41,1132,100.0
+2023-10-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,158693.74,2374,100.0
+2023-10-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,1032689.75,7827,100.0
+2023-10-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,228710.04,5807,100.0
+2023-10-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,470077.95,5996,100.0
+2023-10-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,322668.32,3307,100.0
+2023-10-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,1395862.57,7529,100.0
+2023-10-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,1003993.55,7825,100.0
+2023-10-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,836810.16,7378,100.0
+2023-10-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,577732.08,3280,100.0
+2023-10-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,1058077.94,6804,100.0
+2023-10-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,224551.94,1795,100.0
+2023-10-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,1143448.67,7802,100.0
+2023-10-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,362071.49,6132,100.0
+2023-10-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1130182.62,5831,100.0
+2023-10-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,104452.03,2265,100.0
+2023-10-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,179107.59,1754,100.0
+2023-10-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,160850.99,2705,100.0
+2023-10-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,569664.0,8871,100.0
+2023-10-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,432450.84,8691,100.0
+2023-10-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1179494.25,7959,100.0
+2023-10-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,599035.07,5792,100.0
+2023-10-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,612127.05,5216,100.0
+2023-10-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,42395.04,911,100.0
+2023-10-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,237132.51,6724,100.0
+2023-10-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,244764.38,5027,100.0
+2023-10-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1021344.6,6419,100.0
+2023-10-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,614963.46,5805,100.0
+2023-10-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,608399.54,4384,100.0
+2023-10-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,490708.52,4489,100.0
+2023-10-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,855260.27,5470,100.0
+2023-10-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,842631.1,4913,100.0
+2023-10-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,82353.82,1221,100.0
+2023-10-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,304465.74,1468,100.0
+2023-10-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1555425.57,7417,100.0
+2023-10-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,592024.69,7193,100.0
+2023-10-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,474887.92,6791,100.0
+2023-10-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,565249.03,3687,100.0
+2023-10-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,1558401.78,7561,100.0
+2023-10-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,1238791.78,6181,100.0
+2023-10-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,841517.99,8065,100.0
+2023-10-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,1146201.95,7669,100.0
+2023-10-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,260870.69,5775,100.0
+2023-10-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,781679.7,4405,100.0
+2023-10-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1246279.5,7096,100.0
+2023-10-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,366872.21,2484,100.0
+2023-10-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,44802.54,1367,100.0
+2023-10-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,288097.09,4097,100.0
+2023-10-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,709546.72,3505,100.0
+2023-10-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,183206.75,1039,100.0
+2023-10-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,867120.95,6772,100.0
+2023-10-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,520993.17,6270,100.0
+2023-10-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,861656.38,8128,100.0
+2023-10-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,489326.98,6851,100.0
+2023-10-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1309231.39,8790,100.0
+2023-10-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,436313.95,5899,100.0
+2023-10-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,80686.81,2626,100.0
+2023-10-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,106958.9,2142,100.0
+2023-11-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,149641.04,1445,100.0
+2023-11-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,517270.12,4424,100.0
+2023-11-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,726245.33,6614,100.0
+2023-11-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,613551.49,8776,100.0
+2023-11-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,481439.3,3420,100.0
+2023-11-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,852159.49,4212,100.0
+2023-11-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,210187.21,3596,100.0
+2023-11-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,425797.03,3375,100.0
+2023-11-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,802460.42,4399,100.0
+2023-11-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,252051.55,1837,100.0
+2023-11-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,637669.52,3347,100.0
+2023-11-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,359997.64,7397,100.0
+2023-11-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,638027.88,4877,100.0
+2023-11-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,611453.28,5088,100.0
+2023-11-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,190237.67,2460,100.0
+2023-11-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,984976.49,8737,100.0
+2023-11-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,239725.97,1119,100.0
+2023-11-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1040851.71,7116,100.0
+2023-11-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,348267.13,3290,100.0
+2023-11-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,51688.26,1000,100.0
+2023-11-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,266729.3,6919,100.0
+2023-11-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,209962.13,2010,100.0
+2023-11-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,787152.06,3740,100.0
+2023-11-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,599746.89,2983,100.0
+2023-11-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,1737338.39,8211,100.0
+2023-11-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,147464.53,828,100.0
+2023-11-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,468446.06,5178,100.0
+2023-11-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,123680.81,2287,100.0
+2023-11-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1156225.87,6752,100.0
+2023-11-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,1028303.03,6575,100.0
+2023-11-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,130634.53,4068,100.0
+2023-11-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,1466061.28,8089,100.0
+2023-11-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,371670.95,8202,100.0
+2023-11-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,652711.75,6153,100.0
+2023-11-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,1280280.08,6480,100.0
+2023-11-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,1714417.54,8330,100.0
+2023-11-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1177573.15,7021,100.0
+2023-11-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,607680.72,3364,100.0
+2023-11-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,126154.6,1135,100.0
+2023-11-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,153743.61,3215,100.0
+2023-11-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,763374.59,4613,100.0
+2023-11-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,1140263.35,8861,100.0
+2023-11-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,282414.02,5720,100.0
+2023-11-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,174875.67,2608,100.0
+2023-11-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,285250.89,5801,100.0
+2023-11-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,818717.07,7144,100.0
+2023-11-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1528294.17,7760,100.0
+2023-11-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,418346.76,3983,100.0
+2023-11-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,792987.77,5867,100.0
+2023-11-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,997712.9,4954,100.0
+2023-11-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,1035986.33,6418,100.0
+2023-11-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,412431.31,5009,100.0
+2023-11-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,693839.09,7175,100.0
+2023-11-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,247553.39,5591,100.0
+2023-11-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,140447.92,1289,100.0
+2023-11-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,302490.47,8990,100.0
+2023-11-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,477581.4,2398,100.0
+2023-11-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1483000.11,7658,100.0
+2023-11-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,435919.25,5755,100.0
+2023-11-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1083038.5,6429,100.0
+2023-12-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,151321.01,1096,100.0
+2023-12-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,149639.09,1272,100.0
+2023-12-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,42366.54,817,100.0
+2023-12-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,658608.74,5962,100.0
+2023-12-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,847503.02,8481,100.0
+2023-12-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,508302.32,3718,100.0
+2023-12-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1544758.22,8600,100.0
+2023-12-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,641921.98,6023,100.0
+2023-12-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,1415345.96,7797,100.0
+2023-12-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,488713.76,4026,100.0
+2023-12-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,812705.89,4692,100.0
+2023-12-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,114883.86,1558,100.0
+2023-12-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,1076461.27,5124,100.0
+2023-12-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,994742.81,7572,100.0
+2023-12-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,112140.43,1899,100.0
+2023-12-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,166824.59,4694,100.0
+2023-12-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,952147.0,6689,100.0
+2023-12-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,498000.19,6689,100.0
+2023-12-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,153230.46,2817,100.0
+2023-12-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,673295.32,8831,100.0
+2023-12-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,668940.32,5148,100.0
+2023-12-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,315612.52,7388,100.0
+2023-12-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1264947.8,6204,100.0
+2023-12-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1306929.09,7601,100.0
+2023-12-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,1319393.79,6444,100.0
+2023-12-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,400215.45,2243,100.0
+2023-12-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1010430.33,4644,100.0
+2023-12-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1162043.22,8845,100.0
+2023-12-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,104445.74,1076,100.0
+2023-12-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,420386.99,2693,100.0
+2023-12-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,114603.39,2071,100.0
+2023-12-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,1258372.43,8200,100.0
+2023-12-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,260997.29,3760,100.0
+2023-12-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,414510.34,5649,100.0
+2023-12-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,307209.65,4684,100.0
+2023-12-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,677496.25,3516,100.0
+2023-12-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1011773.02,6279,100.0
+2023-12-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,63051.37,1671,100.0
+2023-12-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,1117081.78,8491,100.0
+2023-12-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,419754.53,5376,100.0
+2023-12-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,207990.91,2799,100.0
+2023-12-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,149625.47,3705,100.0
+2023-12-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,138991.21,4106,100.0
+2023-12-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,630633.71,5046,100.0
+2023-12-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,181039.03,3949,100.0
+2023-12-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,686864.36,7688,100.0
+2023-12-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,930155.25,4793,100.0
+2023-12-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,588614.4,5488,100.0
+2023-12-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,664700.69,3181,100.0
+2023-12-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,522442.7,4980,100.0
+2023-12-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,152875.11,2485,100.0
+2023-12-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,1142862.74,5845,100.0
+2023-12-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,582651.18,4942,100.0
+2023-12-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,705897.48,7519,100.0
+2023-12-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,647203.32,3065,100.0
+2023-12-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,673227.58,6005,100.0
+2023-12-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,255546.82,5136,100.0
+2023-12-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,721063.7,4218,100.0
+2023-12-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,694825.87,3648,100.0
+2023-12-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,355273.49,3611,100.0
+2024-01-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,667079.54,4195,100.0
+2024-01-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,937153.98,8061,100.0
+2024-01-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,426525.71,5241,100.0
+2024-01-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,453000.62,2406,100.0
+2024-01-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,1389651.29,7438,100.0
+2024-01-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,1748807.37,8070,100.0
+2024-01-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,824213.46,5509,100.0
+2024-01-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,932317.45,8840,100.0
+2024-01-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,224649.08,2734,100.0
+2024-01-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,901014.44,8751,100.0
+2024-01-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,1259844.45,7514,100.0
+2024-01-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,416497.94,6266,100.0
+2024-01-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,375798.29,3331,100.0
+2024-01-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,837595.7,4769,100.0
+2024-01-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,264204.65,3106,100.0
+2024-01-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,308703.08,2384,100.0
+2024-01-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,396242.2,3042,100.0
+2024-01-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,233289.78,7006,100.0
+2024-01-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,397812.33,8601,100.0
+2024-01-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,485162.45,2388,100.0
+2024-01-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,703843.79,3683,100.0
+2024-01-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,564354.5,2768,100.0
+2024-01-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,458044.69,7767,100.0
+2024-01-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,263748.48,4596,100.0
+2024-01-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,623603.34,7190,100.0
+2024-01-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,188863.79,1043,100.0
+2024-01-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1205524.11,7328,100.0
+2024-01-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,815695.95,7597,100.0
+2024-01-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,499710.09,8733,100.0
+2024-01-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,251175.72,2381,100.0
+2024-01-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,69656.65,1317,100.0
+2024-01-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,442441.09,2252,100.0
+2024-01-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,790777.26,5746,100.0
+2024-01-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,349959.63,3710,100.0
+2024-01-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,459902.78,3056,100.0
+2024-01-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,336863.32,2266,100.0
+2024-01-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,922577.54,6042,100.0
+2024-01-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1730787.19,8568,100.0
+2024-01-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,239343.83,5688,100.0
+2024-01-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,311377.59,6415,100.0
+2024-01-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,92258.43,1560,100.0
+2024-01-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,500635.54,6073,100.0
+2024-01-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,422306.45,2894,100.0
+2024-01-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,94247.61,2248,100.0
+2024-01-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,323150.71,8013,100.0
+2024-01-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,409523.82,2264,100.0
+2024-01-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,496935.54,6612,100.0
+2024-01-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,695436.12,7523,100.0
+2024-01-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,609467.82,2821,100.0
+2024-01-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,946893.35,8460,100.0
+2024-01-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,384827.64,2707,100.0
+2024-01-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,991584.66,7260,100.0
+2024-01-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,352568.54,5914,100.0
+2024-01-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,1210269.17,7980,100.0
+2024-01-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,1832150.14,8919,100.0
+2024-01-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,359907.29,1738,100.0
+2024-01-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,919518.95,8184,100.0
+2024-01-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1081978.45,4929,100.0
+2024-01-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,183029.92,3792,100.0
+2024-01-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1021901.32,5106,100.0
+2024-02-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1068343.39,7261,100.0
+2024-02-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,777197.1,7070,100.0
+2024-02-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,722386.46,4920,100.0
+2024-02-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,456682.67,4473,100.0
+2024-02-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,1280575.01,8573,100.0
+2024-02-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,986535.03,5752,100.0
+2024-02-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,491797.86,3751,100.0
+2024-02-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,698932.86,5799,100.0
+2024-02-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,301301.96,3080,100.0
+2024-02-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,348150.43,2748,100.0
+2024-02-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,373084.25,3972,100.0
+2024-02-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,326641.25,5908,100.0
+2024-02-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,311746.77,1888,100.0
+2024-02-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,1112789.71,5890,100.0
+2024-02-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,681440.89,4963,100.0
+2024-02-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,200505.27,2338,100.0
+2024-02-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,164221.72,864,100.0
+2024-02-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,917662.67,8729,100.0
+2024-02-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,452412.84,7912,100.0
+2024-02-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,191875.3,1949,100.0
+2024-02-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,460876.57,4093,100.0
+2024-02-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,409198.38,8904,100.0
+2024-02-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,72580.5,2223,100.0
+2024-02-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,735830.65,7306,100.0
+2024-02-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,663719.79,7718,100.0
+2024-02-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,47314.05,1206,100.0
+2024-02-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,626536.7,3608,100.0
+2024-02-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1216711.4,7425,100.0
+2024-02-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,771520.04,4841,100.0
+2024-02-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,65813.14,919,100.0
+2024-02-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,413346.78,8044,100.0
+2024-02-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,174177.56,817,100.0
+2024-02-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,1024418.81,6246,100.0
+2024-02-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,1597339.78,7967,100.0
+2024-02-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,731885.53,8327,100.0
+2024-02-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,441371.81,5316,100.0
+2024-02-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1193706.9,6072,100.0
+2024-02-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,811469.53,6516,100.0
+2024-02-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,994364.38,7798,100.0
+2024-02-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,766993.95,4223,100.0
+2024-02-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,691907.82,4487,100.0
+2024-02-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,325988.42,1898,100.0
+2024-02-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,1264032.74,8532,100.0
+2024-02-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,445594.22,3969,100.0
+2024-02-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,923586.67,8060,100.0
+2024-02-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,323112.51,3200,100.0
+2024-02-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,637993.13,6496,100.0
+2024-02-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1262454.55,6265,100.0
+2024-02-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,463963.24,7275,100.0
+2024-02-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,1325053.1,8349,100.0
+2024-02-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,294716.4,6467,100.0
+2024-02-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,367195.24,3038,100.0
+2024-02-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,222557.68,5510,100.0
+2024-02-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,810506.34,3916,100.0
+2024-02-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,1345459.38,7369,100.0
+2024-02-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,445463.75,3493,100.0
+2024-02-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,292368.6,4010,100.0
+2024-02-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1800447.13,8926,100.0
+2024-02-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,271547.82,4609,100.0
+2024-02-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,133450.97,1732,100.0
+2024-03-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,658610.94,8322,100.0
+2024-03-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,1383533.63,7954,100.0
+2024-03-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,445721.42,6188,100.0
+2024-03-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,795442.87,4379,100.0
+2024-03-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,898948.22,4894,100.0
+2024-03-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,753920.08,4557,100.0
+2024-03-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,238654.14,1660,100.0
+2024-03-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,899617.47,5494,100.0
+2024-03-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,342475.3,1576,100.0
+2024-03-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,1086596.69,8874,100.0
+2024-03-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,529602.68,6930,100.0
+2024-03-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,487977.48,4581,100.0
+2024-03-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,34513.66,1085,100.0
+2024-03-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,886618.53,4376,100.0
+2024-03-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,775790.87,3871,100.0
+2024-03-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,874432.18,7338,100.0
+2024-03-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,518535.7,2995,100.0
+2024-03-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,248307.43,4849,100.0
+2024-03-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,132878.39,3595,100.0
+2024-03-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,1628324.32,8355,100.0
+2024-03-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,102825.25,1354,100.0
+2024-03-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,880375.03,6626,100.0
+2024-03-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,47472.3,996,100.0
+2024-03-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,106742.96,867,100.0
+2024-03-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,630941.6,7012,100.0
+2024-03-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,191936.27,4172,100.0
+2024-03-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1585322.46,7782,100.0
+2024-03-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,445120.4,6060,100.0
+2024-03-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,192314.73,1813,100.0
+2024-03-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,780498.69,6295,100.0
+2024-03-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,925820.2,4642,100.0
+2024-03-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,1084694.06,4968,100.0
+2024-03-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,1095407.64,7800,100.0
+2024-03-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,49504.27,1090,100.0
+2024-03-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,570712.97,5506,100.0
+2024-03-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,653350.06,6944,100.0
+2024-03-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,859673.12,6360,100.0
+2024-03-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,414646.81,2005,100.0
+2024-03-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,269920.12,1775,100.0
+2024-03-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,498999.73,7724,100.0
+2024-03-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,226195.22,2505,100.0
+2024-03-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,650045.52,3783,100.0
+2024-03-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,873263.86,8372,100.0
+2024-03-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,190561.75,1193,100.0
+2024-03-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,93097.24,847,100.0
+2024-03-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,189188.32,971,100.0
+2024-03-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,447631.18,2316,100.0
+2024-03-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,708409.13,3702,100.0
+2024-03-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,433013.47,6115,100.0
+2024-03-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,314911.71,3007,100.0
+2024-03-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,186889.08,5354,100.0
+2024-03-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,1174633.42,8390,100.0
+2024-03-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,1082546.33,6488,100.0
+2024-03-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,71702.52,1006,100.0
+2024-03-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,1146609.15,5324,100.0
+2024-03-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,912542.99,5958,100.0
+2024-03-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,288112.01,1492,100.0
+2024-03-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,660418.71,8942,100.0
+2024-03-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,535877.57,3417,100.0
+2024-03-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,585759.95,8107,100.0
+2024-04-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,507641.24,3306,100.0
+2024-04-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,1070086.28,6725,100.0
+2024-04-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,366663.72,5744,100.0
+2024-04-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,359235.87,4705,100.0
+2024-04-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,304243.81,5816,100.0
+2024-04-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,803940.61,8750,100.0
+2024-04-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,127585.59,937,100.0
+2024-04-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1060701.58,8663,100.0
+2024-04-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,316710.1,4226,100.0
+2024-04-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,282764.95,2304,100.0
+2024-04-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,1499308.98,8823,100.0
+2024-04-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,96118.41,1067,100.0
+2024-04-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,213919.49,2135,100.0
+2024-04-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,943674.54,7843,100.0
+2024-04-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,460487.3,5787,100.0
+2024-04-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,1474826.09,6865,100.0
+2024-04-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,577741.94,3087,100.0
+2024-04-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1498904.89,7188,100.0
+2024-04-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,900195.09,5497,100.0
+2024-04-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,275656.99,6576,100.0
+2024-04-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,295023.15,5871,100.0
+2024-04-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,672494.48,7542,100.0
+2024-04-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1009627.01,5894,100.0
+2024-04-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,924875.34,4211,100.0
+2024-04-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,1275390.19,7948,100.0
+2024-04-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,397511.67,2356,100.0
+2024-04-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,629043.64,8400,100.0
+2024-04-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,261509.61,1660,100.0
+2024-04-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,253663.7,1524,100.0
+2024-04-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,281583.8,2468,100.0
+2024-04-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,231354.41,2488,100.0
+2024-04-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,120489.34,1056,100.0
+2024-04-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,120224.84,1064,100.0
+2024-04-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,495872.92,4507,100.0
+2024-04-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,399028.15,3014,100.0
+2024-04-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,469695.43,8894,100.0
+2024-04-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,302427.96,2054,100.0
+2024-04-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,126847.03,2345,100.0
+2024-04-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,64502.71,1345,100.0
+2024-04-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,474496.42,5579,100.0
+2024-04-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,1256153.76,7402,100.0
+2024-04-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,148285.92,2779,100.0
+2024-04-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,1040609.35,6926,100.0
+2024-04-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,719718.71,6068,100.0
+2024-04-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,997841.75,6218,100.0
+2024-04-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,1543968.97,7114,100.0
+2024-04-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,333434.23,2855,100.0
+2024-04-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1099495.8,8113,100.0
+2024-04-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,519744.99,5262,100.0
+2024-04-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,880765.73,7779,100.0
+2024-04-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,130084.87,3231,100.0
+2024-04-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,130071.15,1063,100.0
+2024-04-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,523514.88,8096,100.0
+2024-04-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,480845.9,2945,100.0
+2024-04-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,1290933.95,6652,100.0
+2024-04-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,257386.86,7193,100.0
+2024-04-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,407776.4,2591,100.0
+2024-04-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,541480.79,3406,100.0
+2024-04-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,634032.56,5311,100.0
+2024-04-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1329377.73,6597,100.0
+2024-05-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,838739.94,7525,100.0
+2024-05-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,452668.9,2733,100.0
+2024-05-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,542764.15,3119,100.0
+2024-05-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,234105.84,5374,100.0
+2024-05-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,320112.88,1748,100.0
+2024-05-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,580460.32,8822,100.0
+2024-05-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,488639.1,2492,100.0
+2024-05-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,393402.25,7735,100.0
+2024-05-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,216252.39,3660,100.0
+2024-05-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,1005360.68,6393,100.0
+2024-05-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,785146.64,6798,100.0
+2024-05-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,251541.55,6693,100.0
+2024-05-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,167495.83,1764,100.0
+2024-05-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,331886.11,2863,100.0
+2024-05-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,173122.05,1255,100.0
+2024-05-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,256003.67,3074,100.0
+2024-05-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,973220.4,7857,100.0
+2024-05-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,135488.87,883,100.0
+2024-05-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,1016938.62,4655,100.0
+2024-05-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,1459988.48,8269,100.0
+2024-05-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,325347.39,4816,100.0
+2024-05-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,1123556.4,6614,100.0
+2024-05-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,862738.38,6969,100.0
+2024-05-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,544328.65,3704,100.0
+2024-05-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,183144.22,2013,100.0
+2024-05-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,1414293.62,7373,100.0
+2024-05-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1565868.34,7935,100.0
+2024-05-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,314746.46,5178,100.0
+2024-05-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,284089.71,3293,100.0
+2024-05-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,394205.98,3220,100.0
+2024-05-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,573945.17,3223,100.0
+2024-05-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,596239.81,2795,100.0
+2024-05-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,579455.8,8240,100.0
+2024-05-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,906575.36,4200,100.0
+2024-05-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,91889.89,2925,100.0
+2024-05-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,374963.98,5141,100.0
+2024-05-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,163343.25,1179,100.0
+2024-05-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,68747.87,1066,100.0
+2024-05-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,1061888.34,5447,100.0
+2024-05-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,827474.68,6623,100.0
+2024-05-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,785050.32,6613,100.0
+2024-05-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,278947.86,1829,100.0
+2024-05-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,668860.78,8056,100.0
+2024-05-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,392752.8,8897,100.0
+2024-05-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,482761.25,2298,100.0
+2024-05-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,713987.01,3516,100.0
+2024-05-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,335686.42,5102,100.0
+2024-05-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,543806.59,3466,100.0
+2024-05-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,434291.59,8899,100.0
+2024-05-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,609674.29,4048,100.0
+2024-05-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,297683.15,2933,100.0
+2024-05-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,239427.21,4701,100.0
+2024-05-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,133365.79,4074,100.0
+2024-05-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,988029.13,6535,100.0
+2024-05-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,1083712.26,6393,100.0
+2024-05-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,646808.63,3496,100.0
+2024-05-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,120919.19,843,100.0
+2024-05-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,497227.07,6497,100.0
+2024-05-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,1161388.21,7514,100.0
+2024-05-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1442061.35,7141,100.0
+2024-06-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,531374.99,6396,100.0
+2024-06-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,208326.91,3653,100.0
+2024-06-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,411877.96,4767,100.0
+2024-06-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,807066.6,3843,100.0
+2024-06-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,684739.8,4295,100.0
+2024-06-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,263268.46,3026,100.0
+2024-06-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1165470.7,6510,100.0
+2024-06-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,84918.56,938,100.0
+2024-06-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,1065638.69,7235,100.0
+2024-06-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,1082051.07,5545,100.0
+2024-06-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,1186799.96,6807,100.0
+2024-06-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,1478089.65,8282,100.0
+2024-06-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,1340275.84,6967,100.0
+2024-06-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,148583.9,4799,100.0
+2024-06-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,420653.21,6137,100.0
+2024-06-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,1524625.21,7580,100.0
+2024-06-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1555357.53,8090,100.0
+2024-06-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,275731.0,1898,100.0
+2024-06-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,1106262.46,6170,100.0
+2024-06-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,67597.02,1240,100.0
+2024-06-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,910474.44,4953,100.0
+2024-06-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,178044.84,996,100.0
+2024-06-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,186447.03,2372,100.0
+2024-06-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1049646.91,8969,100.0
+2024-06-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,207558.92,1843,100.0
+2024-06-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,65760.2,1085,100.0
+2024-06-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,221959.87,1058,100.0
+2024-06-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1341502.34,6164,100.0
+2024-06-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,558045.98,4305,100.0
+2024-06-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,357833.11,1896,100.0
+2024-06-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,553834.06,4051,100.0
+2024-06-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,85838.93,1393,100.0
+2024-06-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,481403.55,3068,100.0
+2024-06-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,773449.89,5041,100.0
+2024-06-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,160071.47,3653,100.0
+2024-06-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,256363.91,8003,100.0
+2024-06-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,221810.48,7052,100.0
+2024-06-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,349983.87,6918,100.0
+2024-06-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,638690.65,6625,100.0
+2024-06-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,331669.73,3254,100.0
+2024-06-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,1262248.11,8128,100.0
+2024-06-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,883776.34,6356,100.0
+2024-06-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,1377353.85,6476,100.0
+2024-06-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,630018.95,7828,100.0
+2024-06-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,870638.41,4484,100.0
+2024-06-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,1072102.34,5742,100.0
+2024-06-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,529934.8,2569,100.0
+2024-06-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,971502.53,5458,100.0
+2024-06-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,1173781.59,7191,100.0
+2024-06-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,1444066.82,8472,100.0
+2024-06-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,1263633.24,7864,100.0
+2024-06-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,773582.23,4894,100.0
+2024-06-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,345991.07,5407,100.0
+2024-06-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,255176.26,1346,100.0
+2024-06-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,688068.87,7976,100.0
+2024-06-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,281564.39,6069,100.0
+2024-06-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1117699.78,5228,100.0
+2024-06-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1481582.7,8733,100.0
+2024-06-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,169406.34,4562,100.0
+2024-06-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,177565.5,3362,100.0
+2024-07-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1336231.28,8340,100.0
+2024-07-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,621238.99,5572,100.0
+2024-07-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,488768.42,2396,100.0
+2024-07-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,775161.17,4454,100.0
+2024-07-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,466025.5,3915,100.0
+2024-07-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,158687.96,847,100.0
+2024-07-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,966779.72,4627,100.0
+2024-07-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1227378.12,6354,100.0
+2024-07-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,500394.29,2442,100.0
+2024-07-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,686637.24,6618,100.0
+2024-07-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,158475.83,1596,100.0
+2024-07-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,74110.03,1224,100.0
+2024-07-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,1582514.4,7996,100.0
+2024-07-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,158906.67,817,100.0
+2024-07-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,568549.41,2885,100.0
+2024-07-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,451414.28,6921,100.0
+2024-07-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,133968.09,1408,100.0
+2024-07-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,126969.42,3776,100.0
+2024-07-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,504512.97,5878,100.0
+2024-07-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,268517.37,5648,100.0
+2024-07-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,347978.99,4135,100.0
+2024-07-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,256444.81,1564,100.0
+2024-07-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,455280.13,3087,100.0
+2024-07-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1226659.93,7999,100.0
+2024-07-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,361675.05,2123,100.0
+2024-07-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,187342.66,2478,100.0
+2024-07-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,396104.32,2547,100.0
+2024-07-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,902953.86,4623,100.0
+2024-07-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,234839.28,4414,100.0
+2024-07-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,831323.01,4663,100.0
+2024-07-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,175412.67,2860,100.0
+2024-07-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,1281856.79,6074,100.0
+2024-07-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,906992.57,4695,100.0
+2024-07-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,1102186.47,8112,100.0
+2024-07-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,940761.88,4937,100.0
+2024-07-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,1157111.98,5867,100.0
+2024-07-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1147055.22,6223,100.0
+2024-07-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,792060.47,6611,100.0
+2024-07-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,251241.73,6186,100.0
+2024-07-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,602710.29,6693,100.0
+2024-07-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,537352.87,8009,100.0
+2024-07-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,1832380.33,8491,100.0
+2024-07-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,782427.99,4191,100.0
+2024-07-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,147239.35,4215,100.0
+2024-07-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,239467.33,6111,100.0
+2024-07-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,1471159.99,8487,100.0
+2024-07-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,154475.34,1852,100.0
+2024-07-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,251424.09,6115,100.0
+2024-07-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,66634.17,1814,100.0
+2024-07-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,773099.32,5133,100.0
+2024-07-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,199928.06,5585,100.0
+2024-07-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,328439.7,1759,100.0
+2024-07-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,241776.51,5026,100.0
+2024-07-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,526027.78,4005,100.0
+2024-07-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,286716.26,8657,100.0
+2024-07-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,415964.63,6437,100.0
+2024-07-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1236816.96,7695,100.0
+2024-07-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,249258.88,1634,100.0
+2024-07-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,1067384.09,5442,100.0
+2024-07-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,370961.88,5810,100.0
+2024-08-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,647487.75,5372,100.0
+2024-08-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,892867.34,8206,100.0
+2024-08-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,71991.91,1126,100.0
+2024-08-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,210552.79,3005,100.0
+2024-08-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,1142505.18,5774,100.0
+2024-08-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,338693.45,1592,100.0
+2024-08-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,502406.99,4417,100.0
+2024-08-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,540365.56,5803,100.0
+2024-08-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,643283.7,7225,100.0
+2024-08-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,320137.94,3889,100.0
+2024-08-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,517256.09,7532,100.0
+2024-08-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,1048825.5,5980,100.0
+2024-08-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,360478.03,2896,100.0
+2024-08-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,1245775.86,6978,100.0
+2024-08-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,134717.37,1261,100.0
+2024-08-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,1053217.44,6485,100.0
+2024-08-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1363101.23,6712,100.0
+2024-08-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1591290.63,8088,100.0
+2024-08-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,860133.24,8492,100.0
+2024-08-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,391777.13,7534,100.0
+2024-08-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,745106.69,6000,100.0
+2024-08-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,101346.96,3167,100.0
+2024-08-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,303741.59,4263,100.0
+2024-08-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,174478.0,4403,100.0
+2024-08-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,1020411.41,7127,100.0
+2024-08-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,876302.84,6969,100.0
+2024-08-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,223109.38,1188,100.0
+2024-08-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,984718.95,7969,100.0
+2024-08-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1199770.97,7285,100.0
+2024-08-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,714761.25,8466,100.0
+2024-08-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,175065.18,1675,100.0
+2024-08-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,125057.71,2190,100.0
+2024-08-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,201053.48,1128,100.0
+2024-08-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,306199.94,3102,100.0
+2024-08-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,50120.94,945,100.0
+2024-08-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,1438009.98,7519,100.0
+2024-08-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,968528.39,6430,100.0
+2024-08-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,841759.12,4362,100.0
+2024-08-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,843392.01,6670,100.0
+2024-08-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,388422.77,2613,100.0
+2024-08-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,1467126.5,6825,100.0
+2024-08-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,284476.88,5837,100.0
+2024-08-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,452307.21,4807,100.0
+2024-08-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,614424.91,2911,100.0
+2024-08-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,285866.63,5327,100.0
+2024-08-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,230180.92,2770,100.0
+2024-08-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1000044.81,4657,100.0
+2024-08-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1285404.09,8580,100.0
+2024-08-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,1089706.26,7348,100.0
+2024-08-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,261132.91,1319,100.0
+2024-08-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,367725.93,7539,100.0
+2024-08-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,78812.14,1404,100.0
+2024-08-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,499911.98,8901,100.0
+2024-08-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,1506545.32,7016,100.0
+2024-08-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,547243.56,3860,100.0
+2024-08-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,178397.38,1403,100.0
+2024-08-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,113369.91,2078,100.0
+2024-08-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,706787.68,4009,100.0
+2024-08-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,686769.78,7693,100.0
+2024-08-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1334613.36,7444,100.0
+2024-09-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,584772.74,3209,100.0
+2024-09-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,154632.32,4943,100.0
+2024-09-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,321398.06,2690,100.0
+2024-09-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,550436.04,3446,100.0
+2024-09-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,520771.59,6745,100.0
+2024-09-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,428620.96,2576,100.0
+2024-09-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1556297.09,8229,100.0
+2024-09-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,860858.94,4918,100.0
+2024-09-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,69091.04,1304,100.0
+2024-09-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,504541.73,4649,100.0
+2024-09-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,393341.97,2641,100.0
+2024-09-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,463585.98,7266,100.0
+2024-09-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,213236.98,5929,100.0
+2024-09-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,1089839.8,6929,100.0
+2024-09-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,366660.16,2504,100.0
+2024-09-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,130958.69,2949,100.0
+2024-09-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,811484.99,6204,100.0
+2024-09-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,382624.46,3520,100.0
+2024-09-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,260537.45,1916,100.0
+2024-09-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,1222007.3,8381,100.0
+2024-09-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,1425782.53,8680,100.0
+2024-09-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,631435.96,3247,100.0
+2024-09-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,343202.66,7110,100.0
+2024-09-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1093516.62,5677,100.0
+2024-09-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,813076.37,6456,100.0
+2024-09-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,212331.82,4852,100.0
+2024-09-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,425609.81,8159,100.0
+2024-09-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1893897.35,8819,100.0
+2024-09-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,163153.59,1381,100.0
+2024-09-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,1609097.8,8469,100.0
+2024-09-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,1366575.63,7958,100.0
+2024-09-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,1180371.33,8194,100.0
+2024-09-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,291054.35,7968,100.0
+2024-09-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,561978.87,3430,100.0
+2024-09-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,200385.17,3907,100.0
+2024-09-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,1176546.42,5662,100.0
+2024-09-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,859982.02,4634,100.0
+2024-09-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1025925.4,5978,100.0
+2024-09-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,1254066.64,8027,100.0
+2024-09-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,159941.31,1846,100.0
+2024-09-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,442531.72,8818,100.0
+2024-09-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,118104.91,2331,100.0
+2024-09-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,553216.37,5817,100.0
+2024-09-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,754360.84,5086,100.0
+2024-09-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,1349035.0,7001,100.0
+2024-09-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,1032197.85,6976,100.0
+2024-09-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1673731.89,8975,100.0
+2024-09-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,613404.46,5173,100.0
+2024-09-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,619117.68,4507,100.0
+2024-09-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,1820256.14,8995,100.0
+2024-09-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,620727.88,7029,100.0
+2024-09-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,224949.71,1864,100.0
+2024-09-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,307196.63,4325,100.0
+2024-09-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,436273.07,5129,100.0
+2024-09-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,789148.81,3951,100.0
+2024-09-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,1070966.05,6413,100.0
+2024-09-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,689096.85,7588,100.0
+2024-09-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,354810.79,2753,100.0
+2024-09-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,1070006.46,6441,100.0
+2024-09-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,842071.37,5709,100.0
+2024-10-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1326855.38,7751,100.0
+2024-10-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,122561.19,1450,100.0
+2024-10-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,1625135.94,7395,100.0
+2024-10-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,352551.77,8596,100.0
+2024-10-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,997245.88,8403,100.0
+2024-10-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,314657.05,5650,100.0
+2024-10-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,260930.63,4356,100.0
+2024-10-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,710918.89,3946,100.0
+2024-10-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,1117005.79,5423,100.0
+2024-10-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,1036369.42,5042,100.0
+2024-10-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,1327368.45,6683,100.0
+2024-10-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,926266.92,8466,100.0
+2024-10-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,1154340.96,8817,100.0
+2024-10-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,1217586.71,6605,100.0
+2024-10-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,156271.86,1468,100.0
+2024-10-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,228103.24,3261,100.0
+2024-10-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,194456.6,1616,100.0
+2024-10-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1386519.67,7391,100.0
+2024-10-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,1346406.77,7291,100.0
+2024-10-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,753776.33,7483,100.0
+2024-10-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,271016.52,3114,100.0
+2024-10-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,213167.79,1782,100.0
+2024-10-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1533934.34,7240,100.0
+2024-10-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,970337.97,6749,100.0
+2024-10-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,377564.14,1738,100.0
+2024-10-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,1389038.02,6966,100.0
+2024-10-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,130703.29,2386,100.0
+2024-10-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1051469.98,6950,100.0
+2024-10-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,462725.54,6894,100.0
+2024-10-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,240713.24,1781,100.0
+2024-10-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,569278.52,4657,100.0
+2024-10-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,265717.44,2499,100.0
+2024-10-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,1067169.18,7703,100.0
+2024-10-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,173599.16,2057,100.0
+2024-10-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,223141.37,2860,100.0
+2024-10-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,320831.24,5389,100.0
+2024-10-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,100226.81,2832,100.0
+2024-10-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,33336.17,1030,100.0
+2024-10-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,213576.69,1900,100.0
+2024-10-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,586958.52,3062,100.0
+2024-10-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,293899.99,8643,100.0
+2024-10-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,809299.56,4317,100.0
+2024-10-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,379992.77,1840,100.0
+2024-10-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,483486.14,2545,100.0
+2024-10-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,1026823.47,8420,100.0
+2024-10-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,974490.43,5310,100.0
+2024-10-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,159016.6,2153,100.0
+2024-10-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,531202.02,4087,100.0
+2024-10-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,1520805.22,7779,100.0
+2024-10-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,360399.81,8520,100.0
+2024-10-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,362504.54,1710,100.0
+2024-10-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,198318.11,3374,100.0
+2024-10-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,477002.36,2386,100.0
+2024-10-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,162193.95,3151,100.0
+2024-10-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,889376.56,6175,100.0
+2024-10-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,52288.0,1565,100.0
+2024-10-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,334644.39,2395,100.0
+2024-10-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,51665.77,990,100.0
+2024-10-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,734428.37,6637,100.0
+2024-10-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1346084.57,7696,100.0
+2024-11-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1544555.18,8639,100.0
+2024-11-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,1069477.39,4957,100.0
+2024-11-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,267839.93,3680,100.0
+2024-11-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,231849.9,1431,100.0
+2024-11-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,184202.24,879,100.0
+2024-11-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,64693.63,1517,100.0
+2024-11-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,252669.79,2013,100.0
+2024-11-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,342599.07,4567,100.0
+2024-11-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,1687517.04,8923,100.0
+2024-11-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,1728510.44,7999,100.0
+2024-11-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,587558.23,5821,100.0
+2024-11-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,134024.75,930,100.0
+2024-11-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,140579.69,3135,100.0
+2024-11-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,520931.42,8101,100.0
+2024-11-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,868488.1,8878,100.0
+2024-11-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,972936.44,4765,100.0
+2024-11-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,156550.64,1972,100.0
+2024-11-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,284217.08,1959,100.0
+2024-11-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,1060211.16,5217,100.0
+2024-11-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,1056163.67,6564,100.0
+2024-11-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,242374.87,7366,100.0
+2024-11-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,426909.22,8300,100.0
+2024-11-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,79218.5,995,100.0
+2024-11-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1681324.14,7830,100.0
+2024-11-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,447449.84,3695,100.0
+2024-11-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,80494.46,1304,100.0
+2024-11-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,358652.75,6740,100.0
+2024-11-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,202333.76,1741,100.0
+2024-11-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,142963.46,951,100.0
+2024-11-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,1019401.85,6359,100.0
+2024-11-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,476484.97,2648,100.0
+2024-11-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,1036138.76,6701,100.0
+2024-11-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,278840.29,2439,100.0
+2024-11-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,204661.6,2079,100.0
+2024-11-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,433835.29,3512,100.0
+2024-11-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,261148.74,2773,100.0
+2024-11-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,227437.29,2300,100.0
+2024-11-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,920812.47,5065,100.0
+2024-11-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,60503.01,1063,100.0
+2024-11-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,48835.41,1536,100.0
+2024-11-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,934315.79,5992,100.0
+2024-11-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,711260.67,7914,100.0
+2024-11-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,537890.09,5743,100.0
+2024-11-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,1147387.53,8572,100.0
+2024-11-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,931645.56,4815,100.0
+2024-11-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,309949.16,8034,100.0
+2024-11-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,732869.89,8554,100.0
+2024-11-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,331182.06,6700,100.0
+2024-11-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,284894.65,5116,100.0
+2024-11-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,876851.59,5261,100.0
+2024-11-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,1680437.0,7935,100.0
+2024-11-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,373696.67,8512,100.0
+2024-11-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,1336132.78,6321,100.0
+2024-11-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,589252.97,8712,100.0
+2024-11-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,341162.69,3956,100.0
+2024-11-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,218572.95,3659,100.0
+2024-11-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,688419.41,5855,100.0
+2024-11-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,379562.75,2955,100.0
+2024-11-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,268102.55,1966,100.0
+2024-11-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,60694.18,932,100.0
+2024-12-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,96108.15,1324,100.0
+2024-12-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,402298.93,3297,100.0
+2024-12-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,902224.65,4607,100.0
+2024-12-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,510286.42,4775,100.0
+2024-12-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,142384.05,1485,100.0
+2024-12-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,674016.16,3707,100.0
+2024-12-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,773706.66,3670,100.0
+2024-12-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,134311.04,923,100.0
+2024-12-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,305336.32,6713,100.0
+2024-12-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,85191.6,953,100.0
+2024-12-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,315637.68,8041,100.0
+2024-12-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,1123685.58,8898,100.0
+2024-12-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,263850.34,3597,100.0
+2024-12-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,357877.52,5097,100.0
+2024-12-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,289876.15,1351,100.0
+2024-12-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,671195.62,7195,100.0
+2024-12-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,600583.67,3184,100.0
+2024-12-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,169937.72,1365,100.0
+2024-12-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,72760.25,1834,100.0
+2024-12-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,671903.38,3450,100.0
+2024-12-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,1032790.07,8236,100.0
+2024-12-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,1041446.05,4984,100.0
+2024-12-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1062311.73,5190,100.0
+2024-12-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1046667.83,4941,100.0
+2024-12-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,313450.96,2101,100.0
+2024-12-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,436244.82,5848,100.0
+2024-12-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,183454.12,2209,100.0
+2024-12-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1304311.53,6413,100.0
+2024-12-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,497938.55,8247,100.0
+2024-12-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,501455.23,7245,100.0
+2024-12-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,832021.96,4986,100.0
+2024-12-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,334285.37,3410,100.0
+2024-12-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,85549.81,2017,100.0
+2024-12-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,98100.86,2298,100.0
+2024-12-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,739621.17,4653,100.0
+2024-12-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,466291.66,3494,100.0
+2024-12-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1244568.04,7978,100.0
+2024-12-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,81576.32,2150,100.0
+2024-12-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,655797.69,7357,100.0
+2024-12-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,1240392.91,8467,100.0
+2024-12-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,102447.73,1329,100.0
+2024-12-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,623497.13,5102,100.0
+2024-12-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,170564.95,5057,100.0
+2024-12-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,217774.59,2022,100.0
+2024-12-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,249369.48,4302,100.0
+2024-12-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,1259389.18,7221,100.0
+2024-12-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1757886.68,8059,100.0
+2024-12-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,264388.99,2161,100.0
+2024-12-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,390202.29,5851,100.0
+2024-12-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,545236.48,3304,100.0
+2024-12-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,1468042.23,8793,100.0
+2024-12-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,339021.6,4879,100.0
+2024-12-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,559818.07,3438,100.0
+2024-12-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,151384.0,4219,100.0
+2024-12-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,378022.87,3207,100.0
+2024-12-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,436900.26,3248,100.0
+2024-12-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1075941.43,5184,100.0
+2024-12-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1651440.24,7871,100.0
+2024-12-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,743634.95,6843,100.0
+2024-12-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,668821.4,6504,100.0
+2025-01-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,870097.0,8203,100.0
+2025-01-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,106891.8,2700,100.0
+2025-01-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,461858.62,3916,100.0
+2025-01-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,532942.13,5744,100.0
+2025-01-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,905233.41,4352,100.0
+2025-01-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,355983.56,3119,100.0
+2025-01-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,227935.88,1604,100.0
+2025-01-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,92281.31,877,100.0
+2025-01-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,341919.15,3476,100.0
+2025-01-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,625960.99,5115,100.0
+2025-01-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,336915.86,7468,100.0
+2025-01-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,407379.05,4996,100.0
+2025-01-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,655810.93,6950,100.0
+2025-01-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,246517.69,6352,100.0
+2025-01-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,306151.29,2300,100.0
+2025-01-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,678628.83,8605,100.0
+2025-01-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,830818.5,5569,100.0
+2025-01-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,308683.02,2778,100.0
+2025-01-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,468404.79,3966,100.0
+2025-01-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,201673.83,4374,100.0
+2025-01-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,1076225.31,6843,100.0
+2025-01-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,1155915.9,7060,100.0
+2025-01-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1097004.57,5991,100.0
+2025-01-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,641260.57,4996,100.0
+2025-01-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,318549.28,3022,100.0
+2025-01-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,511929.18,6418,100.0
+2025-01-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,265462.35,4354,100.0
+2025-01-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,309715.37,1642,100.0
+2025-01-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,558142.94,4918,100.0
+2025-01-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,162874.94,981,100.0
+2025-01-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,1647261.43,7977,100.0
+2025-01-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,605041.21,3051,100.0
+2025-01-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,169868.26,2619,100.0
+2025-01-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,787422.64,4405,100.0
+2025-01-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,1673780.71,8525,100.0
+2025-01-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,337016.14,5653,100.0
+2025-01-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,761335.14,3665,100.0
+2025-01-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,340197.81,3877,100.0
+2025-01-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,412616.32,7083,100.0
+2025-01-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,1627531.72,8995,100.0
+2025-01-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,143629.37,2492,100.0
+2025-01-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,146371.57,1093,100.0
+2025-01-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,752558.1,4113,100.0
+2025-01-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,263320.65,7105,100.0
+2025-01-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,971396.01,6134,100.0
+2025-01-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,198050.11,3520,100.0
+2025-01-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,488999.3,2289,100.0
+2025-01-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1637283.39,7747,100.0
+2025-01-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,703704.71,7135,100.0
+2025-01-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,1100146.88,5038,100.0
+2025-01-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,549355.39,6968,100.0
+2025-01-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,290711.38,7367,100.0
+2025-01-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,306264.7,5146,100.0
+2025-01-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,255589.71,1375,100.0
+2025-01-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,1555379.1,7106,100.0
+2025-01-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,304085.53,6773,100.0
+2025-01-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,241527.01,3911,100.0
+2025-01-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,530144.33,5151,100.0
+2025-01-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,115163.2,1049,100.0
+2025-01-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,608474.51,3040,100.0
+2025-02-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,252516.55,1177,100.0
+2025-02-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,932997.78,5290,100.0
+2025-02-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,524823.46,5690,100.0
+2025-02-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,914812.08,7850,100.0
+2025-02-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,923048.1,7930,100.0
+2025-02-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,284349.62,3834,100.0
+2025-02-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1222098.82,7244,100.0
+2025-02-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,122655.45,1528,100.0
+2025-02-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,828477.89,3924,100.0
+2025-02-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,607283.41,5248,100.0
+2025-02-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,442549.59,4390,100.0
+2025-02-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,95185.81,2462,100.0
+2025-02-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,62205.97,1457,100.0
+2025-02-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,847784.79,6006,100.0
+2025-02-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,818134.88,8014,100.0
+2025-02-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,515220.48,4230,100.0
+2025-02-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1011154.31,5467,100.0
+2025-02-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,550386.23,8286,100.0
+2025-02-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,637474.34,3039,100.0
+2025-02-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,1265853.21,8503,100.0
+2025-02-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,82122.35,810,100.0
+2025-02-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,132485.18,858,100.0
+2025-02-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,640223.94,5954,100.0
+2025-02-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1119582.21,7533,100.0
+2025-02-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,273521.5,3204,100.0
+2025-02-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,129547.3,1670,100.0
+2025-02-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,411496.45,3133,100.0
+2025-02-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,460279.5,4856,100.0
+2025-02-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1443768.78,8183,100.0
+2025-02-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,820023.98,5639,100.0
+2025-02-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,1783178.66,8144,100.0
+2025-02-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,1377651.67,8910,100.0
+2025-02-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,673890.59,4541,100.0
+2025-02-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,278602.89,3905,100.0
+2025-02-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,555581.73,6544,100.0
+2025-02-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,297876.24,3119,100.0
+2025-02-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,78521.32,1188,100.0
+2025-02-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,612890.36,6383,100.0
+2025-02-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,1233697.9,7940,100.0
+2025-02-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,533994.54,6992,100.0
+2025-02-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,631307.43,4506,100.0
+2025-02-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,1419306.08,6571,100.0
+2025-02-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,501435.7,4683,100.0
+2025-02-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,195823.62,2345,100.0
+2025-02-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,93844.47,2126,100.0
+2025-02-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,325458.75,2767,100.0
+2025-02-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,418724.22,4172,100.0
+2025-02-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,460520.07,2870,100.0
+2025-02-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,1059834.32,6619,100.0
+2025-02-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,330294.81,3710,100.0
+2025-02-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,598090.39,2785,100.0
+2025-02-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,131606.95,1024,100.0
+2025-02-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,1527326.08,8551,100.0
+2025-02-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,655887.66,3309,100.0
+2025-02-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,444953.91,5898,100.0
+2025-02-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,901155.05,7955,100.0
+2025-02-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,488799.03,2297,100.0
+2025-02-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,368705.89,2342,100.0
+2025-02-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,326148.18,2838,100.0
+2025-02-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,390182.15,4503,100.0
+2025-03-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1452333.14,6669,100.0
+2025-03-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,256290.4,2777,100.0
+2025-03-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,226516.06,3308,100.0
+2025-03-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,339894.47,8581,100.0
+2025-03-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,562216.35,3090,100.0
+2025-03-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,123230.43,2572,100.0
+2025-03-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,450957.82,3859,100.0
+2025-03-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,484484.51,4375,100.0
+2025-03-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,1300820.29,7600,100.0
+2025-03-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,232519.61,6531,100.0
+2025-03-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,323322.14,5093,100.0
+2025-03-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,236781.31,4528,100.0
+2025-03-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,1190279.17,8459,100.0
+2025-03-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,1902362.27,8812,100.0
+2025-03-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,747200.54,3887,100.0
+2025-03-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,550484.14,8741,100.0
+2025-03-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,547704.57,5161,100.0
+2025-03-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1143074.46,8103,100.0
+2025-03-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,991507.38,6174,100.0
+2025-03-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,205168.83,4448,100.0
+2025-03-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,69027.96,1693,100.0
+2025-03-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,599990.43,4046,100.0
+2025-03-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,575123.43,3573,100.0
+2025-03-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,185582.82,1386,100.0
+2025-03-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,96442.76,3091,100.0
+2025-03-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,285129.48,1490,100.0
+2025-03-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,121561.95,949,100.0
+2025-03-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1233240.88,7715,100.0
+2025-03-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1019012.12,5199,100.0
+2025-03-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,828996.9,6649,100.0
+2025-03-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,552168.09,3734,100.0
+2025-03-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,154962.19,4636,100.0
+2025-03-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,1125807.96,6437,100.0
+2025-03-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,412788.51,6258,100.0
+2025-03-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,89771.33,925,100.0
+2025-03-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,890883.44,4129,100.0
+2025-03-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1236086.88,5633,100.0
+2025-03-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,145571.07,1209,100.0
+2025-03-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,76229.9,2130,100.0
+2025-03-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,549965.74,2881,100.0
+2025-03-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,338251.45,2304,100.0
+2025-03-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,409779.67,8459,100.0
+2025-03-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,210220.01,3424,100.0
+2025-03-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,1132994.81,6153,100.0
+2025-03-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,1616416.87,7828,100.0
+2025-03-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,221277.14,3618,100.0
+2025-03-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1112553.7,5622,100.0
+2025-03-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,424741.58,7689,100.0
+2025-03-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,283247.99,2304,100.0
+2025-03-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,520365.37,2725,100.0
+2025-03-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,1005777.64,5435,100.0
+2025-03-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,208650.86,2226,100.0
+2025-03-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,166618.69,2376,100.0
+2025-03-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,346068.07,1654,100.0
+2025-03-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,179751.99,2003,100.0
+2025-03-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,110289.2,1465,100.0
+2025-03-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,953556.62,4949,100.0
+2025-03-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1130336.86,7288,100.0
+2025-03-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,837053.38,8710,100.0
+2025-03-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,843782.28,7490,100.0
+2025-04-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,316148.26,2028,100.0
+2025-04-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,781492.78,5059,100.0
+2025-04-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,488567.56,5949,100.0
+2025-04-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,891152.53,6975,100.0
+2025-04-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,1086696.9,5241,100.0
+2025-04-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,1372575.84,8906,100.0
+2025-04-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,126284.15,3292,100.0
+2025-04-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,795646.9,5968,100.0
+2025-04-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,791143.27,6042,100.0
+2025-04-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,333862.9,4084,100.0
+2025-04-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,308885.09,8764,100.0
+2025-04-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,132507.84,1744,100.0
+2025-04-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,390032.18,2836,100.0
+2025-04-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,343746.03,3743,100.0
+2025-04-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,376145.08,2925,100.0
+2025-04-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,799991.34,6141,100.0
+2025-04-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,288937.51,2254,100.0
+2025-04-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,399681.21,2424,100.0
+2025-04-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,501598.14,5059,100.0
+2025-04-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,168724.9,3993,100.0
+2025-04-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,1470868.46,8551,100.0
+2025-04-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,182509.06,844,100.0
+2025-04-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,793880.2,7349,100.0
+2025-04-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,962712.46,4841,100.0
+2025-04-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,158456.75,1364,100.0
+2025-04-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,1299127.67,6799,100.0
+2025-04-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,356274.57,2137,100.0
+2025-04-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,684846.48,5556,100.0
+2025-04-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1739370.56,8346,100.0
+2025-04-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,157344.61,4793,100.0
+2025-04-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,587684.5,5879,100.0
+2025-04-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,299472.31,5133,100.0
+2025-04-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,1581366.36,7256,100.0
+2025-04-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,778346.38,3907,100.0
+2025-04-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,170618.19,2878,100.0
+2025-04-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,1157654.68,7712,100.0
+2025-04-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,291681.69,2300,100.0
+2025-04-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,487447.92,5957,100.0
+2025-04-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,1667787.83,7844,100.0
+2025-04-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,459247.09,7233,100.0
+2025-04-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,382005.41,6057,100.0
+2025-04-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,197214.58,3704,100.0
+2025-04-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,798946.48,4168,100.0
+2025-04-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,786415.6,4653,100.0
+2025-04-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,455247.05,6546,100.0
+2025-04-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,409587.92,3494,100.0
+2025-04-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,929526.94,4709,100.0
+2025-04-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1547776.22,7076,100.0
+2025-04-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,372125.66,3642,100.0
+2025-04-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,540907.74,4253,100.0
+2025-04-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,1149007.93,7680,100.0
+2025-04-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,1154786.03,5463,100.0
+2025-04-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,111172.76,1542,100.0
+2025-04-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,213220.88,5842,100.0
+2025-04-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,318813.79,4478,100.0
+2025-04-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,338452.71,2182,100.0
+2025-04-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,159989.92,1756,100.0
+2025-04-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,184641.37,6063,100.0
+2025-04-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,566583.52,4476,100.0
+2025-04-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1272590.67,6561,100.0
+2025-05-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,705483.88,4241,100.0
+2025-05-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,1055279.37,5275,100.0
+2025-05-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,1704514.44,8116,100.0
+2025-05-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,407625.62,6962,100.0
+2025-05-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,138529.82,817,100.0
+2025-05-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,1028301.56,6842,100.0
+2025-05-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,479286.41,5523,100.0
+2025-05-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,351492.91,1736,100.0
+2025-05-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,938166.68,8597,100.0
+2025-05-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,193846.79,3836,100.0
+2025-05-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,111200.81,3453,100.0
+2025-05-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,372976.76,6437,100.0
+2025-05-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,810972.93,5190,100.0
+2025-05-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,515362.22,2383,100.0
+2025-05-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,319136.74,3462,100.0
+2025-05-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,999328.5,8038,100.0
+2025-05-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1652232.75,8241,100.0
+2025-05-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,132112.66,1504,100.0
+2025-05-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,81500.55,984,100.0
+2025-05-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,81920.91,1195,100.0
+2025-05-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,1184704.77,7106,100.0
+2025-05-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,91469.19,2702,100.0
+2025-05-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,306803.12,8006,100.0
+2025-05-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,75743.88,1439,100.0
+2025-05-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,1305292.02,7820,100.0
+2025-05-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,861459.79,7178,100.0
+2025-05-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,284908.79,7638,100.0
+2025-05-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,594735.91,3850,100.0
+2025-05-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,424013.1,3919,100.0
+2025-05-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,93553.4,1641,100.0
+2025-05-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,260571.12,2599,100.0
+2025-05-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,366919.19,1729,100.0
+2025-05-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,495227.55,3329,100.0
+2025-05-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,541430.06,6042,100.0
+2025-05-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,695012.58,7149,100.0
+2025-05-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,1059294.38,7708,100.0
+2025-05-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,887909.11,6920,100.0
+2025-05-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,431587.13,2821,100.0
+2025-05-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,333391.22,4082,100.0
+2025-05-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,1452105.43,7099,100.0
+2025-05-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,306044.92,2060,100.0
+2025-05-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,1349205.87,6852,100.0
+2025-05-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,616773.85,4897,100.0
+2025-05-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,247034.56,3272,100.0
+2025-05-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,274816.98,3674,100.0
+2025-05-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,1169148.38,5680,100.0
+2025-05-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,607181.38,3253,100.0
+2025-05-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,218960.28,1125,100.0
+2025-05-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,738956.41,7106,100.0
+2025-05-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,125640.35,4006,100.0
+2025-05-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,366892.29,7954,100.0
+2025-05-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,333282.3,2317,100.0
+2025-05-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,280918.94,1816,100.0
+2025-05-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,278850.96,3317,100.0
+2025-05-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,410594.12,2502,100.0
+2025-05-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,232443.89,6429,100.0
+2025-05-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,446297.65,3196,100.0
+2025-05-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,109462.95,2987,100.0
+2025-05-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,239951.32,1854,100.0
+2025-05-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,563418.49,6590,100.0
+2025-06-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,109720.77,1280,100.0
+2025-06-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,289549.37,5110,100.0
+2025-06-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,692624.52,3758,100.0
+2025-06-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,107113.72,1102,100.0
+2025-06-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,98958.35,2157,100.0
+2025-06-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,302933.69,4059,100.0
+2025-06-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,321032.25,5938,100.0
+2025-06-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1447197.97,7367,100.0
+2025-06-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,867901.59,4241,100.0
+2025-06-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,482297.95,8159,100.0
+2025-06-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,1330238.72,8366,100.0
+2025-06-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,74259.01,802,100.0
+2025-06-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,449989.55,7852,100.0
+2025-06-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,699830.06,8023,100.0
+2025-06-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,534744.72,5876,100.0
+2025-06-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,449669.1,7937,100.0
+2025-06-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,250906.04,1209,100.0
+2025-06-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1177853.04,6134,100.0
+2025-06-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,558009.97,3317,100.0
+2025-06-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,1084114.14,8793,100.0
+2025-06-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,476626.04,2398,100.0
+2025-06-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,1156136.99,7990,100.0
+2025-06-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,167867.28,2150,100.0
+2025-06-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,375044.14,5618,100.0
+2025-06-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,241166.05,3298,100.0
+2025-06-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,1621638.65,7850,100.0
+2025-06-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1498178.11,6884,100.0
+2025-06-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,292416.02,3019,100.0
+2025-06-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,177832.31,3245,100.0
+2025-06-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,213021.1,3857,100.0
+2025-06-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,323756.02,6955,100.0
+2025-06-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,312643.77,4182,100.0
+2025-06-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,476675.2,4224,100.0
+2025-06-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,498763.66,5009,100.0
+2025-06-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,1330319.09,7898,100.0
+2025-06-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,653322.47,6604,100.0
+2025-06-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,184780.67,5413,100.0
+2025-06-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,519065.72,2768,100.0
+2025-06-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,312165.03,1894,100.0
+2025-06-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,178028.29,5785,100.0
+2025-06-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,636864.18,4845,100.0
+2025-06-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,1599360.41,8839,100.0
+2025-06-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,1313925.29,6149,100.0
+2025-06-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,754682.8,4237,100.0
+2025-06-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,880312.79,4929,100.0
+2025-06-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,192655.8,4087,100.0
+2025-06-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,331985.84,3940,100.0
+2025-06-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,626455.35,3443,100.0
+2025-06-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,83428.84,1660,100.0
+2025-06-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,572655.47,7586,100.0
+2025-06-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,1600882.13,8988,100.0
+2025-06-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,171159.63,4400,100.0
+2025-06-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,221584.46,1313,100.0
+2025-06-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,84120.66,1581,100.0
+2025-06-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,931212.32,4992,100.0
+2025-06-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,776939.78,4292,100.0
+2025-06-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1337477.86,8446,100.0
+2025-06-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,675364.52,4117,100.0
+2025-06-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,1446905.28,8802,100.0
+2025-06-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,402343.69,8150,100.0
+2025-07-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1300679.94,8645,100.0
+2025-07-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,454347.26,3841,100.0
+2025-07-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,836505.73,6391,100.0
+2025-07-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,152738.31,943,100.0
+2025-07-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,1094060.73,8256,100.0
+2025-07-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,561176.41,2629,100.0
+2025-07-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,168726.01,2004,100.0
+2025-07-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,237504.48,2394,100.0
+2025-07-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,836062.78,4176,100.0
+2025-07-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,923228.91,7543,100.0
+2025-07-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,406767.35,8544,100.0
+2025-07-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,701820.68,3600,100.0
+2025-07-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,119606.14,1170,100.0
+2025-07-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,313951.61,1655,100.0
+2025-07-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,1149861.83,5273,100.0
+2025-07-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,801557.92,4519,100.0
+2025-07-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,93370.93,2674,100.0
+2025-07-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1122220.09,6569,100.0
+2025-07-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,363507.71,5634,100.0
+2025-07-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,230739.88,4799,100.0
+2025-07-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,246993.08,4675,100.0
+2025-07-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,857430.53,5292,100.0
+2025-07-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,1477083.97,6771,100.0
+2025-07-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,888256.88,7208,100.0
+2025-07-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,529833.37,3900,100.0
+2025-07-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,1059438.39,7612,100.0
+2025-07-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,417293.36,4651,100.0
+2025-07-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1058699.79,7427,100.0
+2025-07-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,368997.46,4133,100.0
+2025-07-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,665262.39,7213,100.0
+2025-07-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,362491.02,4473,100.0
+2025-07-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,919690.59,6309,100.0
+2025-07-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,1109487.48,5351,100.0
+2025-07-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,379841.15,5484,100.0
+2025-07-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,259450.02,5500,100.0
+2025-07-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,1525484.93,8850,100.0
+2025-07-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,347658.26,5579,100.0
+2025-07-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,132975.48,4215,100.0
+2025-07-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,1025975.52,5494,100.0
+2025-07-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,1590112.21,8300,100.0
+2025-07-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,796882.1,8956,100.0
+2025-07-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,532013.51,5303,100.0
+2025-07-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,858165.71,5249,100.0
+2025-07-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,1556789.11,7730,100.0
+2025-07-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,1739090.67,8297,100.0
+2025-07-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,975931.36,4963,100.0
+2025-07-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1139485.88,5648,100.0
+2025-07-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,584301.0,4138,100.0
+2025-07-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,1619616.01,8430,100.0
+2025-07-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,740384.15,8662,100.0
+2025-07-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,1818742.88,8903,100.0
+2025-07-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,426883.72,5881,100.0
+2025-07-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,230784.95,1533,100.0
+2025-07-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,1186564.37,8995,100.0
+2025-07-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,645935.77,8992,100.0
+2025-07-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,198905.34,957,100.0
+2025-07-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,406213.76,3881,100.0
+2025-07-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,339646.96,2836,100.0
+2025-07-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,748126.19,4003,100.0
+2025-07-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,211983.81,1840,100.0
+2025-08-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,487996.69,3374,100.0
+2025-08-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,421985.36,5756,100.0
+2025-08-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,228626.73,1820,100.0
+2025-08-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,607216.53,2981,100.0
+2025-08-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,307394.17,3181,100.0
+2025-08-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,94289.36,1785,100.0
+2025-08-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,771495.27,4690,100.0
+2025-08-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1149825.7,8156,100.0
+2025-08-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,1248553.48,7412,100.0
+2025-08-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,1509751.09,7099,100.0
+2025-08-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,1109873.91,6966,100.0
+2025-08-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,284730.4,2093,100.0
+2025-08-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,989954.72,5337,100.0
+2025-08-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,1330833.85,6686,100.0
+2025-08-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,1517330.18,8832,100.0
+2025-08-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,533896.44,3485,100.0
+2025-08-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,655360.35,4106,100.0
+2025-08-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1110317.87,7439,100.0
+2025-08-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,310559.96,2591,100.0
+2025-08-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,283186.83,1339,100.0
+2025-08-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,632741.38,2988,100.0
+2025-08-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,208994.84,2474,100.0
+2025-08-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,435867.65,2805,100.0
+2025-08-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,556064.7,4064,100.0
+2025-08-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,519498.06,6047,100.0
+2025-08-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,388117.59,2628,100.0
+2025-08-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,850700.6,5711,100.0
+2025-08-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,366155.82,4815,100.0
+2025-08-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1087648.55,6191,100.0
+2025-08-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,119105.0,2018,100.0
+2025-08-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,396260.36,5338,100.0
+2025-08-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,517309.69,7941,100.0
+2025-08-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,265214.92,2820,100.0
+2025-08-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,309832.87,2903,100.0
+2025-08-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,1121021.94,6953,100.0
+2025-08-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,525028.0,7354,100.0
+2025-08-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,135711.96,3191,100.0
+2025-08-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1097830.89,5127,100.0
+2025-08-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,854808.08,7552,100.0
+2025-08-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,548874.29,3212,100.0
+2025-08-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,964299.19,8823,100.0
+2025-08-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,1343820.15,8102,100.0
+2025-08-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,707467.05,8303,100.0
+2025-08-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,1942950.64,8904,100.0
+2025-08-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,696746.51,8407,100.0
+2025-08-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,320449.83,5823,100.0
+2025-08-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1520692.32,8225,100.0
+2025-08-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,428405.5,6045,100.0
+2025-08-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,395215.95,5894,100.0
+2025-08-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,428904.84,2974,100.0
+2025-08-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,313905.82,1447,100.0
+2025-08-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,556857.43,4508,100.0
+2025-08-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,1327028.63,7891,100.0
+2025-08-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,717783.35,5819,100.0
+2025-08-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,759892.17,4441,100.0
+2025-08-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,355480.05,6251,100.0
+2025-08-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,125642.99,2528,100.0
+2025-08-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,223833.85,4195,100.0
+2025-08-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,547663.3,6032,100.0
+2025-08-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,102485.32,864,100.0
+2025-09-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1077100.98,7225,100.0
+2025-09-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,241991.39,3469,100.0
+2025-09-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,273885.76,1707,100.0
+2025-09-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,520695.07,4539,100.0
+2025-09-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,374042.2,8893,100.0
+2025-09-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,228226.73,1208,100.0
+2025-09-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,77397.68,2527,100.0
+2025-09-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,74604.07,1081,100.0
+2025-09-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,588478.92,5155,100.0
+2025-09-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,858004.39,5725,100.0
+2025-09-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,863214.86,4583,100.0
+2025-09-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,321497.13,4041,100.0
+2025-09-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,804224.11,5485,100.0
+2025-09-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,816246.51,6936,100.0
+2025-09-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,1375927.65,6870,100.0
+2025-09-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,1438047.17,6871,100.0
+2025-09-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1225550.73,8676,100.0
+2025-09-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1491843.06,7817,100.0
+2025-09-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,89596.37,1146,100.0
+2025-09-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,782373.59,6513,100.0
+2025-09-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,347723.78,4435,100.0
+2025-09-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,227484.09,1522,100.0
+2025-09-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,358922.58,2353,100.0
+2025-09-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,932993.28,5695,100.0
+2025-09-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,279029.47,1562,100.0
+2025-09-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,1070702.43,6200,100.0
+2025-09-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,562226.62,7488,100.0
+2025-09-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,394805.01,4659,100.0
+2025-09-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,337111.36,8272,100.0
+2025-09-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,707532.82,5003,100.0
+2025-09-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,161125.22,935,100.0
+2025-09-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,489136.23,4126,100.0
+2025-09-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,1690023.0,8492,100.0
+2025-09-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,518914.62,2825,100.0
+2025-09-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,316445.59,1699,100.0
+2025-09-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,162757.17,5270,100.0
+2025-09-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1112645.58,8892,100.0
+2025-09-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,868105.21,7126,100.0
+2025-09-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,891742.8,4881,100.0
+2025-09-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,533177.19,3086,100.0
+2025-09-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,477937.39,4528,100.0
+2025-09-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,686309.72,6140,100.0
+2025-09-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,1211887.71,6611,100.0
+2025-09-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,966192.1,6256,100.0
+2025-09-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,1881387.41,8567,100.0
+2025-09-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,176195.48,5078,100.0
+2025-09-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,784051.03,3775,100.0
+2025-09-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,460247.21,2569,100.0
+2025-09-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,212995.01,2394,100.0
+2025-09-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,80688.88,1655,100.0
+2025-09-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,805553.76,8392,100.0
+2025-09-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,442433.42,6064,100.0
+2025-09-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,715479.57,6618,100.0
+2025-09-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,598408.67,8331,100.0
+2025-09-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,89294.2,866,100.0
+2025-09-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,263722.32,2037,100.0
+2025-09-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,190823.37,5157,100.0
+2025-09-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,222001.65,1547,100.0
+2025-09-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,427602.4,5441,100.0
+2025-09-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,552623.76,2579,100.0
+2025-10-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1629365.94,8647,100.0
+2025-10-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,1047196.42,6336,100.0
+2025-10-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,444191.49,6124,100.0
+2025-10-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,273455.83,4664,100.0
+2025-10-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,595824.37,6118,100.0
+2025-10-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,250936.6,3950,100.0
+2025-10-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,793566.52,6740,100.0
+2025-10-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,743559.97,6563,100.0
+2025-10-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,653252.42,4631,100.0
+2025-10-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,916726.11,6021,100.0
+2025-10-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,120132.69,1590,100.0
+2025-10-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,339071.79,6077,100.0
+2025-10-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,1766337.35,8734,100.0
+2025-10-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,485871.55,6760,100.0
+2025-10-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,725293.23,4428,100.0
+2025-10-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,327435.67,4100,100.0
+2025-10-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,274689.76,5910,100.0
+2025-10-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,624453.46,3101,100.0
+2025-10-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,1249323.46,5908,100.0
+2025-10-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,1799313.32,8612,100.0
+2025-10-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,804879.23,4269,100.0
+2025-10-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,1131330.31,6473,100.0
+2025-10-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,812354.3,5552,100.0
+2025-10-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,1134362.74,8185,100.0
+2025-10-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,879914.89,6797,100.0
+2025-10-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,735892.64,6512,100.0
+2025-10-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1144612.67,7206,100.0
+2025-10-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,265185.19,2182,100.0
+2025-10-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1089638.09,8438,100.0
+2025-10-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,1231158.06,6003,100.0
+2025-10-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,148490.68,3217,100.0
+2025-10-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,827618.83,6367,100.0
+2025-10-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,416349.23,2270,100.0
+2025-10-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,441325.28,8302,100.0
+2025-10-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,686008.87,8323,100.0
+2025-10-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,299414.41,3627,100.0
+2025-10-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,186734.18,4930,100.0
+2025-10-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,106095.84,1458,100.0
+2025-10-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,289650.3,1357,100.0
+2025-10-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,691309.03,3942,100.0
+2025-10-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,659261.46,4436,100.0
+2025-10-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,30775.31,931,100.0
+2025-10-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,994464.38,8896,100.0
+2025-10-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,1528105.51,8177,100.0
+2025-10-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,1452404.63,7704,100.0
+2025-10-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,1031011.4,6986,100.0
+2025-10-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1439722.37,7752,100.0
+2025-10-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,384530.2,2649,100.0
+2025-10-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,502711.06,7297,100.0
+2025-10-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,1032018.22,5849,100.0
+2025-10-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,276636.92,4072,100.0
+2025-10-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,1175150.97,5785,100.0
+2025-10-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,466357.98,4368,100.0
+2025-10-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,1588985.63,8789,100.0
+2025-10-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,774005.76,4517,100.0
+2025-10-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,879469.57,4933,100.0
+2025-10-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,171826.19,4606,100.0
+2025-10-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,249865.0,1587,100.0
+2025-10-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,268953.9,7229,100.0
+2025-10-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1601031.78,8691,100.0
+2025-11-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,443465.75,3785,100.0
+2025-11-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,787675.47,5937,100.0
+2025-11-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,426886.92,5895,100.0
+2025-11-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,160879.78,953,100.0
+2025-11-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,98525.7,1687,100.0
+2025-11-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,1153463.65,5783,100.0
+2025-11-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,634790.48,2942,100.0
+2025-11-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,963243.79,8827,100.0
+2025-11-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,636894.83,4971,100.0
+2025-11-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,328636.6,5505,100.0
+2025-11-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,573525.62,3420,100.0
+2025-11-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,726135.2,3518,100.0
+2025-11-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,935501.98,6479,100.0
+2025-11-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,784447.46,7887,100.0
+2025-11-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,755697.14,5121,100.0
+2025-11-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,248662.21,2183,100.0
+2025-11-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,99714.97,3032,100.0
+2025-11-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,1127803.27,5346,100.0
+2025-11-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,705143.24,4484,100.0
+2025-11-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,841185.76,7855,100.0
+2025-11-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,305263.54,6841,100.0
+2025-11-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,376723.98,5034,100.0
+2025-11-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,913007.97,4180,100.0
+2025-11-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,158141.74,2290,100.0
+2025-11-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,283582.32,5899,100.0
+2025-11-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,730715.99,3847,100.0
+2025-11-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1569445.37,7564,100.0
+2025-11-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,239313.44,1599,100.0
+2025-11-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,268430.58,8852,100.0
+2025-11-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,371406.86,1850,100.0
+2025-11-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,585322.42,3660,100.0
+2025-11-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,288688.56,1998,100.0
+2025-11-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,212119.64,1409,100.0
+2025-11-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,324104.05,1759,100.0
+2025-11-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,447329.13,4858,100.0
+2025-11-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,81161.3,2286,100.0
+2025-11-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,281246.2,1650,100.0
+2025-11-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,934541.94,5212,100.0
+2025-11-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,238799.71,2743,100.0
+2025-11-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,218903.58,2946,100.0
+2025-11-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,53392.99,1539,100.0
+2025-11-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,742569.87,5093,100.0
+2025-11-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,185872.92,880,100.0
+2025-11-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,115265.31,3331,100.0
+2025-11-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,180097.21,2448,100.0
+2025-11-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,354491.92,1784,100.0
+2025-11-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,1194033.3,5594,100.0
+2025-11-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,86147.04,2488,100.0
+2025-11-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,229446.08,1721,100.0
+2025-11-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,543152.24,2729,100.0
+2025-11-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,331032.56,1741,100.0
+2025-11-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,746306.13,6463,100.0
+2025-11-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,709623.39,8161,100.0
+2025-11-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,1152475.22,5637,100.0
+2025-11-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,246414.37,3690,100.0
+2025-11-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,695437.42,6744,100.0
+2025-11-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,276084.69,3719,100.0
+2025-11-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,749117.49,5428,100.0
+2025-11-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,693030.64,5558,100.0
+2025-11-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,1134249.07,8286,100.0
+2025-12-01,Egypt,Alexandria,Anti-infective,P0005,Infecto,Epsilon Pharma,1298894.49,5971,100.0
+2025-12-01,Egypt,Alexandria,CNS,P0006,NeuroCalm,Zeta Pharma,145025.34,1738,100.0
+2025-12-01,Egypt,Alexandria,Cardiology,P0001,CardioSafe,Alpha Pharma,170058.74,4488,100.0
+2025-12-01,Egypt,Alexandria,Cardiovascular,P0009,LipiControl,Iota Pharma,849576.89,5351,100.0
+2025-12-01,Egypt,Alexandria,Dermatology,P0008,Dermacare,Theta Pharma,1303246.21,5961,100.0
+2025-12-01,Egypt,Alexandria,Diabetes,P0002,GlucoMax,Beta Pharma,395464.59,6588,100.0
+2025-12-01,Egypt,Alexandria,Gastrointestinal,P0010,GastroEase,Kappa Pharma,619920.5,7987,100.0
+2025-12-01,Egypt,Alexandria,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,740561.21,5059,100.0
+2025-12-01,Egypt,Alexandria,Pain,P0004,PainFree,Delta Pharma,834612.19,6802,100.0
+2025-12-01,Egypt,Alexandria,Respiratory,P0003,Respira,Gamma Pharma,1136115.47,6240,100.0
+2025-12-01,Egypt,Cairo,Anti-infective,P0005,Infecto,Epsilon Pharma,308591.24,2681,100.0
+2025-12-01,Egypt,Cairo,CNS,P0006,NeuroCalm,Zeta Pharma,51773.03,1054,100.0
+2025-12-01,Egypt,Cairo,Cardiology,P0001,CardioSafe,Alpha Pharma,67269.1,2194,100.0
+2025-12-01,Egypt,Cairo,Cardiovascular,P0009,LipiControl,Iota Pharma,106910.91,3455,100.0
+2025-12-01,Egypt,Cairo,Dermatology,P0008,Dermacare,Theta Pharma,315691.88,3832,100.0
+2025-12-01,Egypt,Cairo,Diabetes,P0002,GlucoMax,Beta Pharma,369072.53,3674,100.0
+2025-12-01,Egypt,Cairo,Gastrointestinal,P0010,GastroEase,Kappa Pharma,862154.98,7505,100.0
+2025-12-01,Egypt,Cairo,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,784547.99,3769,100.0
+2025-12-01,Egypt,Cairo,Pain,P0004,PainFree,Delta Pharma,452341.88,3269,100.0
+2025-12-01,Egypt,Cairo,Respiratory,P0003,Respira,Gamma Pharma,204703.75,3343,100.0
+2025-12-01,Egypt,Canal,Anti-infective,P0005,Infecto,Epsilon Pharma,399780.66,1879,100.0
+2025-12-01,Egypt,Canal,CNS,P0006,NeuroCalm,Zeta Pharma,598511.93,6144,100.0
+2025-12-01,Egypt,Canal,Cardiology,P0001,CardioSafe,Alpha Pharma,421181.4,2364,100.0
+2025-12-01,Egypt,Canal,Cardiovascular,P0009,LipiControl,Iota Pharma,189816.3,3725,100.0
+2025-12-01,Egypt,Canal,Dermatology,P0008,Dermacare,Theta Pharma,120815.81,2048,100.0
+2025-12-01,Egypt,Canal,Diabetes,P0002,GlucoMax,Beta Pharma,1920207.64,8784,100.0
+2025-12-01,Egypt,Canal,Gastrointestinal,P0010,GastroEase,Kappa Pharma,454279.88,3004,100.0
+2025-12-01,Egypt,Canal,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,171829.79,1343,100.0
+2025-12-01,Egypt,Canal,Pain,P0004,PainFree,Delta Pharma,1596584.21,7444,100.0
+2025-12-01,Egypt,Canal,Respiratory,P0003,Respira,Gamma Pharma,146375.54,953,100.0
+2025-12-01,Egypt,Delta,Anti-infective,P0005,Infecto,Epsilon Pharma,120608.54,2008,100.0
+2025-12-01,Egypt,Delta,CNS,P0006,NeuroCalm,Zeta Pharma,305656.39,3310,100.0
+2025-12-01,Egypt,Delta,Cardiology,P0001,CardioSafe,Alpha Pharma,1067184.09,7396,100.0
+2025-12-01,Egypt,Delta,Cardiovascular,P0009,LipiControl,Iota Pharma,120079.65,1001,100.0
+2025-12-01,Egypt,Delta,Dermatology,P0008,Dermacare,Theta Pharma,741105.35,5586,100.0
+2025-12-01,Egypt,Delta,Diabetes,P0002,GlucoMax,Beta Pharma,757313.16,3854,100.0
+2025-12-01,Egypt,Delta,Gastrointestinal,P0010,GastroEase,Kappa Pharma,459126.73,4672,100.0
+2025-12-01,Egypt,Delta,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,195607.08,1359,100.0
+2025-12-01,Egypt,Delta,Pain,P0004,PainFree,Delta Pharma,198562.9,1725,100.0
+2025-12-01,Egypt,Delta,Respiratory,P0003,Respira,Gamma Pharma,993133.16,7994,100.0
+2025-12-01,Egypt,Giza,Anti-infective,P0005,Infecto,Epsilon Pharma,213538.17,3074,100.0
+2025-12-01,Egypt,Giza,CNS,P0006,NeuroCalm,Zeta Pharma,554756.82,5526,100.0
+2025-12-01,Egypt,Giza,Cardiology,P0001,CardioSafe,Alpha Pharma,214705.91,4339,100.0
+2025-12-01,Egypt,Giza,Cardiovascular,P0009,LipiControl,Iota Pharma,398567.88,1962,100.0
+2025-12-01,Egypt,Giza,Dermatology,P0008,Dermacare,Theta Pharma,1267269.38,8184,100.0
+2025-12-01,Egypt,Giza,Diabetes,P0002,GlucoMax,Beta Pharma,904919.83,5772,100.0
+2025-12-01,Egypt,Giza,Gastrointestinal,P0010,GastroEase,Kappa Pharma,63627.78,1462,100.0
+2025-12-01,Egypt,Giza,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,122713.26,3714,100.0
+2025-12-01,Egypt,Giza,Pain,P0004,PainFree,Delta Pharma,1266082.6,7385,100.0
+2025-12-01,Egypt,Giza,Respiratory,P0003,Respira,Gamma Pharma,181543.43,1405,100.0
+2025-12-01,Egypt,Upper Egypt,Anti-infective,P0005,Infecto,Epsilon Pharma,1134615.04,8714,100.0
+2025-12-01,Egypt,Upper Egypt,CNS,P0006,NeuroCalm,Zeta Pharma,220212.55,3612,100.0
+2025-12-01,Egypt,Upper Egypt,Cardiology,P0001,CardioSafe,Alpha Pharma,228576.19,2415,100.0
+2025-12-01,Egypt,Upper Egypt,Cardiovascular,P0009,LipiControl,Iota Pharma,72297.58,2158,100.0
+2025-12-01,Egypt,Upper Egypt,Dermatology,P0008,Dermacare,Theta Pharma,925463.91,7528,100.0
+2025-12-01,Egypt,Upper Egypt,Diabetes,P0002,GlucoMax,Beta Pharma,346528.8,6350,100.0
+2025-12-01,Egypt,Upper Egypt,Gastrointestinal,P0010,GastroEase,Kappa Pharma,414010.02,7186,100.0
+2025-12-01,Egypt,Upper Egypt,Musculoskeletal,P0007,ArthroRelief,Eta Pharma,302193.8,2249,100.0
+2025-12-01,Egypt,Upper Egypt,Pain,P0004,PainFree,Delta Pharma,680536.49,3359,100.0
+2025-12-01,Egypt,Upper Egypt,Respiratory,P0003,Respira,Gamma Pharma,860280.51,4702,100.0

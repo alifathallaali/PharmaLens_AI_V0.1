@@ -1,0 +1,5 @@
+Source_of_Business,Definition,Patient_Count,Share_%
+New Patient,First observed treatment initiation,15000,39.659457458621965
+Switch,Patient changes from previous brand,6231,16.474538628311564
+Add-on,Patient receives additional therapy while prior therapy continues,7775,20.556818782719052
+Repeat,Repeat/continuation without switch,8816,23.30918513034742
