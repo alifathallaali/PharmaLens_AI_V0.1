@@ -1,0 +1,4 @@
+Product_ID,Product_Name,Institution_ID,Institution_Name,Formulary_Status,Restriction,Clinical_Fit_Score,Hospital_Demand_Score,Formulary_Gap_Score,Competitor_Gap_Score,Price_Competitiveness_Score,Patient_Population_Score,Access_Feasibility_Score
+P001,Example Product,H001,Example Hospital,Restricted,ICU only,90,85,70,60,80,75,85
+P002,Example Product B,H002,Example Medical City,Non-listed,Needs P&T submission,95,90,95,80,75,90,65
+P003,Example Product C,H003,Example University Hospital,Listed,No restriction,85,70,35,55,90,70,90

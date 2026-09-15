@@ -1,0 +1,4 @@
+Institution_ID,Institution_Name,Institution_Type,Region,City,Department,Potential_Value,Access_Score,Growth_Score,Competitor_Gap_Score,Procurement_Score,Strategic_Score,Our_Sales,Estimated_Account_Market
+H001,Example Hospital,Private,Riyadh,Riyadh,ICU,500000,80,75,70,85,80,100000,500000
+H002,Example Medical City,Government,Riyadh,Riyadh,Oncology,800000,65,90,80,70,90,120000,800000
+H003,Example University Hospital,University,Jeddah,Jeddah,Respiratory,350000,90,70,85,80,75,90000,350000

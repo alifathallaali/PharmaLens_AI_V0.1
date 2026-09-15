@@ -1,0 +1,3 @@
+Tender_ID,Institution_ID,Institution_Name,Product_ID,Product_Name,Tender_Date,Closing_Date,Award_Date,Winning_Company,Winning_Product,Winning_Price,Quantity,Tender_Value,Tender_Timing_Score,Historical_Demand_Score,Contract_Expiry_Score,Product_Fit_Score,Competitive_Gap_Score,Win_Rate_Score,Price_Competitiveness_Score
+T001,H001,Example Hospital,P001,Example Product,2026-10-01,2026-10-15,,,100.0,1000,100000,90,80,85,90,70,60,80
+T002,H002,Example Medical City,P002,Example Product B,2026-11-05,2026-11-20,,,90.0,5000,450000,80,90,95,85,80,65,75

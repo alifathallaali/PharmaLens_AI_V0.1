@@ -1,0 +1,4 @@
+Institution_ID,Institution_Name,Department,Stakeholder_Name,Role,Stakeholder_Type,Influence_Score,Interest_Score,Access_Score,Relationship_Score,Decision_Area,Champion_Status,Next_Action
+H001,Example Hospital,ICU,Example Stakeholder,Consultant,Clinical Decision Maker,90,80,70,75,Clinical,Potential Champion,Schedule scientific meeting
+H001,Example Hospital,Procurement,Example Buyer,Procurement Manager,Procurement,85,65,80,60,Commercial,Neutral,Map procurement process
+H002,Example Medical City,Oncology,Example KOL,Head of Oncology,Clinical Decision Maker,95,90,75,85,Clinical,Champion,Develop account plan
