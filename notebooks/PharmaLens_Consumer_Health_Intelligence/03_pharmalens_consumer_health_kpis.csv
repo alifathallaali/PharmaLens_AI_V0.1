@@ -1,0 +1,16 @@
+kpi_id,kpi_name,formula_or_logic,priority
+CH001,Market Size,SUM(market_value),High
+CH002,Market Growth,(Current Value/Prior Value)-1,High
+CH003,Market Share,Brand Sales/Category Sales,High
+CH004,Brand Growth,(Current Brand Sales/Prior Brand Sales)-1,High
+CH005,Price Index,Brand Price/Market Average Price,High
+CH006,Price Per Unit,Price/Normalized Unit,High
+CH007,Distribution Index,Weighted Distribution/Category Average,High
+CH008,Innovation Velocity,New Product Launches/Period,High
+CH009,Competitive Intensity,Number of Relevant Competitors,High
+CH010,White Space Score,Growth + unmet demand + low competition + price opportunity,High
+CH011,Digital Momentum,Search + social + review momentum,Medium
+CH012,Consumer Sentiment,Normalized review/social sentiment,Medium
+CH013,Portfolio Strength,Share + growth + distribution + evidence,High
+CH014,Launch Opportunity,Market growth + need + competition gap + price headroom,High
+CH015,Company Opportunity,Category attractiveness x company capability x competitive gap,High

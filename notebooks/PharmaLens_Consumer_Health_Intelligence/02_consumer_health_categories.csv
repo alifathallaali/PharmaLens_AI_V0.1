@@ -1,0 +1,32 @@
+domain,category,subcategory,examples
+Consumer Health,Vitamins Minerals Supplements,Multivitamins,Multivitamins
+Consumer Health,Vitamins Minerals Supplements,Vitamin D,Vitamin D
+Consumer Health,Vitamins Minerals Supplements,Magnesium,Magnesium
+Consumer Health,Vitamins Minerals Supplements,Omega-3,Omega-3
+Consumer Health,Dietary Supplements,Collagen,Beauty from within
+Consumer Health,Dietary Supplements,Probiotics,Gut health
+Consumer Health,Dietary Supplements,Hair Skin Nails,Biotin/collagen/zinc
+Consumer Health,Sports Nutrition,Protein,Protein powders/drinks
+Consumer Health,Sports Nutrition,Performance,Creatine/amino acids
+Consumer Health,Weight Management,Meal Replacement,Meal replacement
+Consumer Health,Weight Management,Supplements,Weight management
+Dermatology,Dermocosmetics,Skincare,Facial/body skincare
+Dermatology,Dermocosmetics,Acne,Acne care
+Dermatology,Dermocosmetics,Hyperpigmentation,Dark spot care
+Dermatology,Dermocosmetics,Anti-aging,Anti-aging skincare
+Dermatology,Dermocosmetics,Suncare,SPF/sun protection
+Dermatology,Hair Care,Hair Loss,Hair/scalp products
+Aesthetic,Aesthetic Injectables,Dermal Fillers,HA fillers
+Aesthetic,Aesthetic Injectables,Botulinum Toxin,Botulinum toxin
+Aesthetic,Aesthetic Injectables,Skin Boosters,Skin boosters
+Aesthetic,Aesthetic Devices,Energy Based Devices,Laser/RF/HIFU
+Aesthetic,Aesthetic Devices,Body Contouring,Body contouring
+Nutrition,Infant Nutrition,Infant Formula,Stage 1/2/3
+Nutrition,Infant Nutrition,Specialized Formula,HA/premature/lactose-free/etc
+Nutrition,Growing-up Nutrition,Growing-up Milk,Milk powder
+Nutrition,Medical Nutrition,Enteral Nutrition,Tube/oral medical nutrition
+Nutrition,Functional Nutrition,Functional Foods,Fortified foods/drinks
+Nutrition,Functional Nutrition,Functional Beverages,Protein/fortified beverages
+Nutricosmetics,Beauty From Within,Skin Health,Collagen/hyaluronic acid
+Nutricosmetics,Beauty From Within,Hair Health,Hair supplements
+Nutricosmetics,Beauty From Within,Nails,Nail supplements

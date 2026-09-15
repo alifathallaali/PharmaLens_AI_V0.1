@@ -1,0 +1,73 @@
+table,column,description,data_type
+dim_company,company_id,Unique company identifier,string
+dim_company,company_name,Company name,string
+dim_company,company_type,Pharma/Derm/Aesthetic/Nutrition/Consumer Health,string
+dim_brand,brand_id,Unique brand identifier,string
+dim_brand,brand_name,Brand name,string
+dim_product,product_id,Unique SKU/product identifier,string
+dim_product,product_name,Product/SKU name,string
+dim_product,category,High-level category,string
+dim_product,subcategory,Subcategory,string
+dim_product,segment,Specific segment,string
+dim_product,ingredient,Key active/functional ingredient,string
+dim_product,strength,Strength/concentration,string
+dim_product,dosage_form,Dosage/form,string
+dim_product,pack_size,Pack size,string
+dim_product,claims,Observed claims,string
+dim_product,target_consumer,Target consumer,string
+dim_product,need_state,Consumer need state,string
+dim_product,launch_date,Launch date,date
+dim_product,manufacturer,Manufacturer,string
+dim_product,distributor,Distributor,string
+dim_product,registration_status,Registration status,string
+dim_product,country,Country,string
+fact_market,period,Market period,date
+fact_market,market_value,Market value,numeric
+fact_market,market_units,Market units,numeric
+fact_market,market_share,Market share,numeric
+fact_market,growth_value,Value growth %,numeric
+fact_market,growth_units,Unit growth %,numeric
+fact_market,channel,Channel,string
+fact_market,region,Region,string
+fact_sales,product_id,Product key,string
+fact_sales,company_id,Company key,string
+fact_sales,period,Sales period,date
+fact_sales,sales_value,Sales value,numeric
+fact_sales,sales_units,Sales units,numeric
+fact_sales,price,Observed price,numeric
+fact_sales,discount,Discount %,numeric
+fact_distribution,product_id,Product key,string
+fact_distribution,period,Distribution period,date
+fact_distribution,numeric_distribution,Numeric distribution %,numeric
+fact_distribution,weighted_distribution,Weighted distribution %,numeric
+fact_digital,product_id,Product key,string
+fact_digital,period,Digital observation period,date
+fact_digital,search_index,Search interest index,numeric
+fact_digital,review_count,Review count,numeric
+fact_digital,rating,Average rating,numeric
+fact_digital,social_mentions,Social mentions,numeric
+fact_innovation,product_id,Product key,string
+fact_innovation,launch_date,Launch date,date
+fact_innovation,claim,Claim observed,string
+fact_innovation,format,Product format,string
+fact_innovation,ingredient,Ingredient,string
+fact_innovation,innovation_theme,Innovation theme,string
+fact_competition,product_id,Product key,string
+fact_competition,competitor_product_id,Competitor product key,string
+fact_competition,competition_type,Direct/indirect/premium/value/emerging,string
+fact_competition,similarity_score,Similarity score,numeric
+fact_price,product_id,Product key,string
+fact_price,period,Price observation period,date
+fact_price,price,Observed price,numeric
+fact_price,price_per_unit,Normalized price,numeric
+fact_price,promo_depth,Promotion depth %,numeric
+fact_events,event_id,Event identifier,string
+fact_events,event_name,Event/activity name,string
+fact_events,event_type,Event type,string
+fact_events,date,Event date,date
+fact_events,location,Event location,string
+fact_events,company_id,Participating company,string
+fact_evidence,product_id,Product key,string
+fact_evidence,evidence_type,Publication/trial/guideline/etc,string
+fact_evidence,evidence_level,Evidence level,string
+fact_evidence,source,Source reference,string
